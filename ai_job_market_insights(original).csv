@@ -1,0 +1,1001 @@
+Job_Title,Industry,Company_Size,Location,AI_Adoption_Level,Automation_Risk,Salary_USD,Remote_Friendly,Job_Growth_Projection
+Cybersecurity Analyst,Entertainment,Small,Dubai,Medium,High,111392.16524315962,Yes,Growth
+Marketing Specialist,Technology,Large,Singapore,Medium,High,93792.56246610906,No,Decline
+AI Researcher,Technology,Large,Singapore,Medium,High,107170.26306894996,Yes,Growth
+Sales Manager,Retail,Small,Berlin,Low,High,93027.95375786416,No,Growth
+Cybersecurity Analyst,Entertainment,Small,Tokyo,Low,Low,87752.92217059238,Yes,Decline
+UX Designer,Education,Large,San Francisco,Medium,Medium,102825.0078665678,No,Growth
+HR Manager,Finance,Medium,Singapore,Low,High,102065.72067347592,Yes,Growth
+Cybersecurity Analyst,Technology,Small,Dubai,Medium,Low,86607.3176180969,Yes,Decline
+AI Researcher,Retail,Large,London,High,Low,75015.86084571481,No,Stable
+Sales Manager,Entertainment,Medium,Singapore,High,Low,96834.57829480869,Yes,Decline
+Marketing Specialist,Finance,Small,London,High,High,91566.97337925188,Yes,Growth
+AI Researcher,Entertainment,Medium,Singapore,Medium,High,78902.56574458485,No,Growth
+AI Researcher,Transportation,Large,San Francisco,High,Medium,73151.99034926406,Yes,Growth
+HR Manager,Retail,Small,Paris,Low,High,98209.51687788912,Yes,Decline
+Product Manager,Finance,Medium,Singapore,High,High,101001.90114055388,Yes,Growth
+Sales Manager,Telecommunications,Small,Dubai,High,Low,82799.35770690278,No,Growth
+Software Engineer,Manufacturing,Medium,Singapore,High,Medium,78401.25928174148,No,Decline
+AI Researcher,Manufacturing,Large,Tokyo,Low,High,73394.89621925619,No,Stable
+Product Manager,Finance,Large,San Francisco,Medium,High,97645.09878289838,Yes,Stable
+Software Engineer,Entertainment,Small,Dubai,Low,Low,73920.45852718527,Yes,Growth
+Sales Manager,Retail,Medium,Sydney,Medium,Low,134822.69138041462,Yes,Decline
+Data Scientist,Manufacturing,Small,Dubai,Medium,High,81794.37128058006,Yes,Growth
+UX Designer,Retail,Small,Tokyo,High,Medium,41495.71444254798,No,Decline
+Product Manager,Manufacturing,Medium,Paris,Medium,Medium,89396.5666674173,Yes,Decline
+Operations Manager,Transportation,Medium,San Francisco,Low,Low,88539.33040362394,Yes,Stable
+Data Scientist,Entertainment,Medium,Sydney,Low,Low,112234.37135048377,Yes,Stable
+UX Designer,Transportation,Large,Tokyo,Medium,High,95762.52473455408,No,Decline
+HR Manager,Manufacturing,Small,Tokyo,High,Low,73323.29633120395,Yes,Growth
+Cybersecurity Analyst,Telecommunications,Small,New York,High,High,84272.16253006447,Yes,Stable
+Marketing Specialist,Telecommunications,Large,San Francisco,Low,Medium,96548.39543301976,Yes,Growth
+Operations Manager,Transportation,Medium,Dubai,High,Medium,46705.714993791786,Yes,Stable
+HR Manager,Telecommunications,Large,London,Medium,High,116772.434687809,Yes,Stable
+Sales Manager,Manufacturing,Large,Paris,Medium,Low,73376.6022839067,No,Growth
+HR Manager,Finance,Large,London,Low,Medium,118340.87641895234,Yes,Stable
+Cybersecurity Analyst,Transportation,Small,Dubai,Medium,Low,97849.30282253175,Yes,Stable
+Sales Manager,Healthcare,Large,Dubai,Low,Medium,102591.88272787948,Yes,Growth
+Operations Manager,Entertainment,Small,San Francisco,Medium,High,112988.46872002544,Yes,Stable
+Cybersecurity Analyst,Telecommunications,Small,Dubai,Low,High,101462.64105384996,Yes,Stable
+Software Engineer,Telecommunications,Small,New York,High,High,103457.72432634902,Yes,Stable
+Marketing Specialist,Technology,Medium,Sydney,Medium,Medium,86711.67119077238,Yes,Growth
+Operations Manager,Education,Small,Dubai,Medium,Low,97443.3736294419,Yes,Decline
+Software Engineer,Transportation,Small,London,Low,Low,78250.04370056515,Yes,Growth
+UX Designer,Energy,Medium,Dubai,Low,Low,83131.77800824065,Yes,Decline
+Operations Manager,Telecommunications,Small,New York,Medium,Medium,129293.90095937817,No,Stable
+UX Designer,Entertainment,Large,Singapore,Low,Medium,73836.12829899156,No,Decline
+Sales Manager,Healthcare,Large,Singapore,Medium,Medium,93086.3425327256,No,Growth
+Software Engineer,Telecommunications,Small,Tokyo,High,Medium,92269.38073430952,No,Growth
+Marketing Specialist,Healthcare,Medium,Paris,Low,Medium,83784.91056438402,Yes,Stable
+Cybersecurity Analyst,Manufacturing,Large,Berlin,Medium,Low,100288.01873140877,No,Decline
+AI Researcher,Manufacturing,Medium,Sydney,High,Medium,101794.44185482766,No,Stable
+HR Manager,Education,Medium,Toronto,High,Medium,71483.61633704841,Yes,Stable
+Data Scientist,Finance,Large,Tokyo,Medium,Low,92027.13423093104,No,Growth
+Marketing Specialist,Energy,Medium,Paris,Low,Medium,68352.65322455287,No,Decline
+Software Engineer,Technology,Large,Singapore,Medium,Low,105770.97236634602,Yes,Decline
+AI Researcher,Education,Medium,London,High,Low,93529.74620725252,Yes,Decline
+Marketing Specialist,Retail,Large,Toronto,Medium,High,91646.59773434176,Yes,Decline
+Software Engineer,Technology,Small,Paris,Low,High,103180.62697744806,No,Stable
+Product Manager,Transportation,Large,Paris,High,High,84489.79419063198,No,Stable
+Product Manager,Entertainment,Large,Tokyo,Medium,High,108280.43918436408,Yes,Growth
+UX Designer,Retail,Large,Toronto,Low,Medium,71031.10254487729,Yes,Stable
+Marketing Specialist,Retail,Large,San Francisco,High,High,118237.53037789057,No,Stable
+Product Manager,Education,Medium,Berlin,Low,Low,78981.77634890293,Yes,Growth
+Software Engineer,Finance,Small,San Francisco,High,Medium,56076.41864608825,No,Growth
+UX Designer,Education,Large,Toronto,Medium,High,83429.30183074536,Yes,Growth
+Software Engineer,Transportation,Medium,San Francisco,Low,Low,81160.63605491581,Yes,Stable
+UX Designer,Telecommunications,Small,New York,High,Medium,83278.52027699928,No,Stable
+Marketing Specialist,Telecommunications,Small,Singapore,Low,Medium,94632.96030967963,Yes,Growth
+AI Researcher,Finance,Small,New York,Low,High,111956.84721776543,Yes,Growth
+Cybersecurity Analyst,Transportation,Small,Dubai,Medium,Medium,86165.88172205727,Yes,Growth
+Operations Manager,Finance,Large,San Francisco,Low,Low,76167.64860362199,No,Stable
+AI Researcher,Healthcare,Large,Dubai,High,Medium,67469.06375432406,Yes,Stable
+Sales Manager,Telecommunications,Medium,London,High,Low,80636.34417381912,Yes,Decline
+Software Engineer,Retail,Medium,Sydney,High,Medium,52243.50321499295,Yes,Stable
+Sales Manager,Energy,Medium,London,High,High,75497.33812967277,Yes,Stable
+AI Researcher,Entertainment,Small,Toronto,Medium,Low,114881.07791724372,Yes,Stable
+UX Designer,Transportation,Small,Paris,Low,Medium,73532.81590843154,Yes,Growth
+Operations Manager,Technology,Large,Singapore,Medium,Medium,102574.31721600612,No,Stable
+Operations Manager,Finance,Small,San Francisco,Low,Medium,65470.358203830205,No,Growth
+Data Scientist,Entertainment,Small,Tokyo,Low,Low,125421.91798621108,Yes,Decline
+Operations Manager,Technology,Small,Sydney,Low,Low,126752.1346612942,No,Decline
+Cybersecurity Analyst,Entertainment,Medium,Berlin,Medium,Low,101820.43113119752,No,Growth
+Operations Manager,Energy,Medium,Berlin,Low,High,129825.05203287044,Yes,Growth
+AI Researcher,Technology,Large,Berlin,Medium,High,97115.85949855324,No,Growth
+Data Scientist,Education,Small,San Francisco,High,Low,105370.34228299111,No,Stable
+AI Researcher,Manufacturing,Small,Berlin,High,Medium,115238.6775346307,No,Decline
+AI Researcher,Education,Large,New York,Low,High,93594.369061969,No,Growth
+HR Manager,Telecommunications,Small,Sydney,Medium,Low,58952.450768298775,No,Stable
+Data Scientist,Manufacturing,Small,New York,High,Medium,105779.26710468795,No,Decline
+AI Researcher,Education,Medium,Paris,Medium,High,80562.80811133073,No,Stable
+HR Manager,Manufacturing,Large,Sydney,Medium,Medium,82049.4035808908,No,Decline
+HR Manager,Manufacturing,Large,New York,Low,Medium,95957.8983295738,Yes,Stable
+Data Scientist,Retail,Large,Sydney,High,Medium,101325.6175943474,Yes,Decline
+Sales Manager,Finance,Large,Paris,Low,Medium,93002.69268012435,No,Decline
+UX Designer,Finance,Medium,Dubai,Low,High,102714.59072314618,No,Stable
+Cybersecurity Analyst,Retail,Medium,San Francisco,High,High,75862.85731879607,Yes,Growth
+UX Designer,Entertainment,Small,San Francisco,High,High,89145.92410553433,No,Decline
+Operations Manager,Healthcare,Small,Berlin,Medium,Low,106981.70900901742,No,Growth
+Cybersecurity Analyst,Entertainment,Small,London,High,High,125455.82352873433,Yes,Stable
+Operations Manager,Technology,Small,Berlin,Medium,Medium,132528.71177946418,Yes,Growth
+AI Researcher,Technology,Medium,Toronto,Medium,High,98659.53365455465,Yes,Growth
+Software Engineer,Manufacturing,Large,New York,Medium,Medium,106800.19653491216,No,Growth
+Data Scientist,Education,Medium,Sydney,High,Low,129631.5832963038,No,Growth
+Cybersecurity Analyst,Education,Small,London,Low,Medium,76583.27926533011,Yes,Growth
+Cybersecurity Analyst,Finance,Medium,Paris,Medium,Medium,102593.99705425168,Yes,Decline
+AI Researcher,Transportation,Large,Toronto,Low,Medium,105366.85898972292,No,Decline
+Sales Manager,Entertainment,Large,Paris,Low,Low,118957.22872153488,Yes,Decline
+HR Manager,Telecommunications,Medium,San Francisco,High,High,67257.17238927555,No,Stable
+AI Researcher,Energy,Medium,San Francisco,Low,High,71211.88432398967,No,Growth
+Product Manager,Education,Medium,Berlin,Low,Low,90427.64422209412,Yes,Decline
+HR Manager,Energy,Small,New York,High,Medium,97554.55324643273,Yes,Stable
+Data Scientist,Manufacturing,Medium,London,Medium,High,112457.27907467616,No,Decline
+HR Manager,Energy,Medium,Singapore,Low,Low,100350.87551624542,Yes,Decline
+Sales Manager,Telecommunications,Medium,Toronto,High,High,86971.73539779433,Yes,Growth
+HR Manager,Retail,Large,Toronto,Low,Low,98329.2288951228,Yes,Stable
+Data Scientist,Telecommunications,Large,Berlin,Low,Medium,96020.88952548904,Yes,Growth
+Sales Manager,Energy,Small,San Francisco,Medium,High,124900.32859975575,No,Growth
+UX Designer,Telecommunications,Small,Berlin,Low,Low,93313.17887137063,No,Decline
+Cybersecurity Analyst,Healthcare,Large,Sydney,High,High,82338.33172894873,No,Growth
+Cybersecurity Analyst,Manufacturing,Large,London,Low,High,98992.1806014366,No,Stable
+Operations Manager,Entertainment,Large,New York,Medium,High,93969.70638677065,Yes,Growth
+UX Designer,Retail,Medium,Dubai,Medium,High,58580.13288650656,Yes,Growth
+UX Designer,Education,Medium,Tokyo,High,Low,89686.95876755661,No,Growth
+HR Manager,Technology,Large,Tokyo,Medium,Medium,87985.23509187989,No,Decline
+Cybersecurity Analyst,Entertainment,Medium,Berlin,Low,Low,79122.56268441367,Yes,Stable
+Data Scientist,Technology,Medium,Sydney,Medium,Low,110711.66575245943,No,Decline
+Marketing Specialist,Manufacturing,Small,London,High,Low,74286.40806776009,No,Decline
+Marketing Specialist,Retail,Large,Singapore,Medium,Medium,99112.37239049075,Yes,Decline
+Sales Manager,Finance,Large,Tokyo,Medium,High,87042.86000312539,No,Decline
+Cybersecurity Analyst,Education,Medium,London,Medium,High,92153.90011293563,Yes,Decline
+Cybersecurity Analyst,Healthcare,Large,New York,High,High,98235.72582091736,Yes,Stable
+Marketing Specialist,Finance,Small,Paris,Medium,Medium,63848.51232217997,No,Growth
+Cybersecurity Analyst,Manufacturing,Small,Sydney,Medium,High,93833.21783469566,Yes,Decline
+HR Manager,Entertainment,Small,San Francisco,Low,Medium,135778.94979426413,No,Decline
+Product Manager,Healthcare,Large,London,High,High,58864.73308242552,Yes,Stable
+Software Engineer,Telecommunications,Large,New York,Medium,High,88847.84072568991,No,Stable
+UX Designer,Energy,Large,Singapore,High,Low,112464.7864964764,No,Growth
+Operations Manager,Healthcare,Large,Dubai,Medium,Medium,96032.38495907192,No,Stable
+Sales Manager,Manufacturing,Large,San Francisco,Medium,Low,103759.33904232067,Yes,Growth
+Product Manager,Transportation,Small,Dubai,Medium,Low,42486.67977814768,Yes,Decline
+Marketing Specialist,Energy,Medium,Singapore,Low,Low,101964.987492599,No,Decline
+UX Designer,Technology,Small,New York,Low,Medium,74766.23587532803,Yes,Growth
+Cybersecurity Analyst,Education,Large,Tokyo,Low,Medium,96197.54569166292,No,Stable
+Operations Manager,Technology,Small,Dubai,High,High,89411.30538181018,No,Growth
+Cybersecurity Analyst,Healthcare,Large,San Francisco,High,Low,135566.66058323265,Yes,Stable
+Data Scientist,Technology,Large,Berlin,Low,High,100933.9064753175,No,Decline
+Data Scientist,Manufacturing,Small,Toronto,High,Low,87747.52341474428,Yes,Stable
+Operations Manager,Telecommunications,Large,London,Medium,Medium,59806.144814928906,No,Growth
+Operations Manager,Entertainment,Medium,Tokyo,Medium,Medium,92422.93803699792,Yes,Growth
+Marketing Specialist,Education,Large,Dubai,Medium,Medium,106464.57756693644,No,Decline
+Operations Manager,Technology,Medium,Paris,Low,Low,88388.96216361554,No,Stable
+HR Manager,Technology,Medium,London,High,Medium,79886.87280125119,Yes,Stable
+Cybersecurity Analyst,Healthcare,Large,Berlin,Low,Low,78548.26672307363,No,Stable
+Product Manager,Entertainment,Small,Singapore,High,High,100702.8287091064,No,Decline
+AI Researcher,Finance,Medium,Toronto,Medium,Low,105187.75878618314,Yes,Stable
+Operations Manager,Technology,Small,New York,Low,High,117224.20230642238,No,Growth
+Sales Manager,Manufacturing,Medium,Berlin,High,Low,70100.00213579283,Yes,Stable
+Data Scientist,Transportation,Large,Berlin,High,High,100519.55116835234,No,Decline
+HR Manager,Education,Large,Singapore,Medium,Medium,87565.92091164265,Yes,Stable
+UX Designer,Technology,Medium,Sydney,Low,High,88155.31590733438,No,Stable
+AI Researcher,Manufacturing,Large,Singapore,Low,Medium,98036.51708068005,No,Growth
+Product Manager,Manufacturing,Medium,Sydney,Low,Medium,98153.12507249897,No,Stable
+AI Researcher,Education,Large,Sydney,Medium,High,100575.36211583146,Yes,Growth
+Operations Manager,Finance,Small,Tokyo,Low,Low,68850.5761560838,Yes,Growth
+Marketing Specialist,Manufacturing,Large,Tokyo,Medium,Low,75003.77185667082,Yes,Decline
+Data Scientist,Transportation,Small,San Francisco,Medium,Low,119717.36551035367,Yes,Growth
+Data Scientist,Manufacturing,Large,Dubai,Medium,Low,85588.5506503832,No,Growth
+UX Designer,Manufacturing,Small,Dubai,High,Low,96120.28796035792,No,Decline
+Marketing Specialist,Manufacturing,Large,New York,Low,Medium,111093.32624086372,Yes,Growth
+Cybersecurity Analyst,Telecommunications,Small,Dubai,Low,Low,99268.86144721638,Yes,Decline
+Software Engineer,Telecommunications,Medium,Tokyo,Medium,Medium,100930.45261944078,Yes,Stable
+HR Manager,Finance,Medium,San Francisco,Medium,Medium,107891.55358487512,No,Decline
+Data Scientist,Technology,Small,San Francisco,Low,Medium,47666.72478206,Yes,Growth
+Sales Manager,Manufacturing,Large,Sydney,Medium,High,80200.99689678931,Yes,Decline
+Data Scientist,Entertainment,Small,Singapore,Low,High,99372.11592999184,No,Growth
+AI Researcher,Technology,Large,New York,High,Medium,117752.88614115314,No,Stable
+Data Scientist,Finance,Medium,Sydney,Medium,High,91321.91119311546,Yes,Decline
+Data Scientist,Retail,Large,Singapore,Low,Low,73105.67076487809,No,Stable
+Software Engineer,Technology,Medium,Dubai,Medium,Low,73638.27900778996,Yes,Growth
+Software Engineer,Technology,Large,Sydney,Low,Medium,107677.22406906149,No,Growth
+Product Manager,Energy,Large,London,Low,Low,85644.52835216226,Yes,Stable
+Cybersecurity Analyst,Healthcare,Large,Dubai,Medium,Medium,89855.99908419327,Yes,Decline
+Sales Manager,Energy,Small,Singapore,High,Medium,102300.60387544638,Yes,Decline
+Data Scientist,Transportation,Small,New York,Low,Low,31969.52634612842,Yes,Growth
+Data Scientist,Telecommunications,Medium,Singapore,Low,High,130007.35023016162,No,Stable
+HR Manager,Telecommunications,Medium,Sydney,Low,Low,75378.52329897878,No,Stable
+Software Engineer,Healthcare,Small,Sydney,High,Low,94838.72738947145,No,Decline
+Sales Manager,Education,Medium,Berlin,High,Medium,55906.05973007458,No,Decline
+UX Designer,Education,Small,New York,Medium,Medium,81549.17779189924,Yes,Decline
+Product Manager,Finance,Large,Paris,High,Medium,114893.76092730192,Yes,Stable
+Cybersecurity Analyst,Healthcare,Medium,Dubai,Medium,Medium,51676.65640668242,No,Decline
+Marketing Specialist,Technology,Medium,San Francisco,Medium,High,112524.00174378282,No,Decline
+Cybersecurity Analyst,Education,Small,New York,High,High,84526.07807535231,No,Growth
+AI Researcher,Manufacturing,Medium,San Francisco,Medium,High,99743.28880440384,No,Decline
+Data Scientist,Entertainment,Medium,New York,High,Medium,103150.4882697022,No,Decline
+Product Manager,Technology,Large,New York,Medium,Medium,98828.42998981853,Yes,Stable
+AI Researcher,Transportation,Medium,Singapore,High,Medium,72700.98696738348,Yes,Stable
+Sales Manager,Manufacturing,Large,New York,High,High,82709.01706929953,Yes,Growth
+Marketing Specialist,Manufacturing,Small,Berlin,Medium,Medium,60768.876454983685,No,Decline
+Software Engineer,Healthcare,Medium,Paris,Low,Low,99835.9266317616,No,Growth
+Product Manager,Finance,Large,Sydney,Medium,Low,124041.10308031851,No,Stable
+Product Manager,Transportation,Small,Toronto,High,Medium,53511.18226647075,No,Growth
+Data Scientist,Education,Medium,San Francisco,Low,Low,74767.0818772393,Yes,Stable
+Operations Manager,Healthcare,Small,Sydney,Medium,Low,86364.49448234134,Yes,Growth
+Product Manager,Education,Medium,Toronto,Medium,High,93466.82847427108,No,Growth
+HR Manager,Healthcare,Small,Paris,Medium,Medium,107583.52602868852,Yes,Decline
+Marketing Specialist,Healthcare,Small,Paris,Low,Medium,86956.00039284666,Yes,Growth
+Marketing Specialist,Healthcare,Large,San Francisco,High,High,83680.825471087,No,Decline
+HR Manager,Finance,Small,San Francisco,Medium,Low,112062.6141213948,No,Decline
+UX Designer,Healthcare,Medium,Paris,Medium,Low,103239.91134126612,No,Decline
+HR Manager,Retail,Medium,Toronto,Medium,Medium,100779.55951402197,No,Decline
+HR Manager,Entertainment,Large,New York,Medium,Low,92250.31423176228,No,Growth
+Marketing Specialist,Education,Medium,Dubai,Medium,High,109663.04421839718,No,Stable
+Cybersecurity Analyst,Technology,Medium,London,High,High,76873.81217539468,Yes,Stable
+Marketing Specialist,Energy,Medium,Sydney,High,Medium,74146.11435627844,Yes,Stable
+Operations Manager,Transportation,Small,Singapore,Medium,High,104922.01973738648,No,Growth
+Data Scientist,Telecommunications,Small,Sydney,Low,High,57499.28061506184,Yes,Decline
+AI Researcher,Finance,Medium,Singapore,High,Medium,91843.59019272974,No,Stable
+Cybersecurity Analyst,Technology,Large,Toronto,Low,High,83668.83295474976,No,Growth
+Software Engineer,Manufacturing,Small,Singapore,High,High,61884.90538694088,No,Decline
+AI Researcher,Retail,Large,San Francisco,Medium,High,71374.64840567471,No,Stable
+Data Scientist,Telecommunications,Medium,Dubai,High,Low,87820.47815409301,Yes,Decline
+Operations Manager,Energy,Medium,Dubai,Medium,Medium,110679.26512998046,No,Stable
+Operations Manager,Technology,Small,San Francisco,High,Medium,76940.84017484378,Yes,Stable
+Software Engineer,Telecommunications,Medium,Berlin,Medium,Medium,114267.62799809988,No,Stable
+Cybersecurity Analyst,Technology,Small,Toronto,Medium,Low,91263.58455113032,No,Decline
+UX Designer,Retail,Medium,Berlin,Medium,Low,116207.69404339942,No,Growth
+HR Manager,Energy,Medium,Berlin,Medium,Medium,77910.16782439903,Yes,Decline
+Cybersecurity Analyst,Manufacturing,Small,Sydney,Low,Low,89023.80823789263,No,Stable
+UX Designer,Healthcare,Small,Paris,Medium,Medium,97369.6720667399,No,Decline
+Operations Manager,Education,Small,Sydney,Low,Low,86409.79074516977,No,Growth
+Marketing Specialist,Manufacturing,Medium,Paris,Low,High,109060.48294290472,Yes,Decline
+Data Scientist,Healthcare,Medium,London,Medium,High,45848.72549419468,Yes,Growth
+Software Engineer,Finance,Large,Singapore,Low,Medium,138448.1107757988,Yes,Growth
+Data Scientist,Entertainment,Small,Paris,High,Low,107155.49213990325,No,Decline
+Sales Manager,Transportation,Medium,San Francisco,Medium,Low,86529.36341929967,Yes,Stable
+Sales Manager,Transportation,Medium,Sydney,Low,High,78953.56652845311,No,Growth
+Cybersecurity Analyst,Education,Small,Toronto,Medium,High,72671.58777102892,Yes,Decline
+Operations Manager,Energy,Large,Singapore,Medium,Low,102912.30948339474,Yes,Growth
+Operations Manager,Retail,Small,London,Medium,Low,109899.63337584709,No,Stable
+HR Manager,Energy,Large,Paris,Low,Low,86749.477437402,Yes,Decline
+HR Manager,Retail,Medium,London,High,Low,112139.80825957004,No,Decline
+HR Manager,Energy,Large,Toronto,High,Low,71854.79906477756,No,Decline
+Marketing Specialist,Entertainment,Medium,Berlin,Low,Low,68323.78300026328,Yes,Stable
+AI Researcher,Finance,Small,Dubai,Medium,Medium,126266.82410491098,No,Growth
+Product Manager,Finance,Small,Toronto,Low,Low,101822.17227077084,No,Decline
+AI Researcher,Healthcare,Small,Tokyo,Low,High,117936.96403626657,Yes,Growth
+Data Scientist,Telecommunications,Large,Toronto,Low,Medium,72921.20583224614,Yes,Growth
+AI Researcher,Finance,Medium,London,Medium,Low,71529.49216462541,No,Stable
+Marketing Specialist,Finance,Small,San Francisco,Low,High,82827.81361084916,Yes,Decline
+Data Scientist,Manufacturing,Small,Sydney,Medium,Medium,73518.82316921977,No,Growth
+AI Researcher,Manufacturing,Medium,San Francisco,Low,High,104107.30420456902,No,Decline
+Marketing Specialist,Healthcare,Small,London,High,Low,74977.47886147109,Yes,Decline
+Product Manager,Telecommunications,Medium,Sydney,Low,Low,66566.60283865419,Yes,Stable
+AI Researcher,Education,Medium,Tokyo,Low,Low,92840.30824510464,Yes,Decline
+Marketing Specialist,Manufacturing,Medium,Dubai,High,Low,64200.27648349573,Yes,Decline
+HR Manager,Education,Medium,Singapore,Medium,Medium,54010.72137049221,No,Growth
+Operations Manager,Technology,Medium,London,Medium,Medium,92665.14467722556,No,Stable
+HR Manager,Manufacturing,Large,Paris,Low,High,55015.5991397958,Yes,Decline
+Operations Manager,Entertainment,Small,London,High,Low,105505.58792590846,Yes,Growth
+Software Engineer,Telecommunications,Large,London,Medium,High,62093.32547494408,No,Stable
+Software Engineer,Healthcare,Small,Sydney,Low,Medium,45186.52427160505,No,Stable
+Software Engineer,Technology,Large,New York,High,Low,84124.06699718411,No,Growth
+Product Manager,Telecommunications,Medium,Toronto,Medium,Low,92891.89006592968,No,Growth
+HR Manager,Entertainment,Small,New York,Medium,Medium,99829.50127363882,Yes,Growth
+Operations Manager,Telecommunications,Small,Tokyo,High,Medium,93440.31398031706,No,Growth
+Marketing Specialist,Entertainment,Large,Paris,High,Medium,68813.74757764515,No,Growth
+Data Scientist,Entertainment,Large,Dubai,High,Medium,104261.22361853208,Yes,Decline
+Marketing Specialist,Education,Small,Berlin,High,Medium,109202.77012959492,No,Decline
+Data Scientist,Energy,Large,Tokyo,Low,Low,65884.75743088922,No,Stable
+Sales Manager,Technology,Large,Berlin,High,Medium,86379.87722680772,Yes,Decline
+Marketing Specialist,Telecommunications,Large,Berlin,Medium,Low,84511.1994578196,Yes,Decline
+AI Researcher,Retail,Medium,Dubai,Medium,Low,94407.63165576068,Yes,Decline
+AI Researcher,Technology,Medium,San Francisco,Low,Medium,85901.52416451782,No,Growth
+Cybersecurity Analyst,Energy,Large,New York,Medium,Medium,88642.44455854046,No,Stable
+HR Manager,Technology,Large,London,Medium,Low,102836.31060483382,Yes,Stable
+Data Scientist,Finance,Medium,Singapore,High,Medium,67722.93800797733,Yes,Stable
+Data Scientist,Retail,Medium,Berlin,Medium,Medium,104747.46270521649,No,Stable
+HR Manager,Energy,Small,Paris,Low,Medium,112822.65463062502,Yes,Decline
+Product Manager,Education,Small,Tokyo,High,High,122682.69986977737,Yes,Decline
+Cybersecurity Analyst,Telecommunications,Medium,San Francisco,High,Low,47132.65351725282,Yes,Growth
+Product Manager,Transportation,Large,Berlin,Low,High,86341.96685769563,No,Stable
+Product Manager,Energy,Large,San Francisco,High,Medium,50697.98851292822,No,Decline
+Product Manager,Healthcare,Large,San Francisco,High,High,41298.72620454353,No,Decline
+HR Manager,Telecommunications,Large,Berlin,Low,Medium,92881.86095214955,No,Growth
+Product Manager,Energy,Small,Sydney,High,High,82016.96414299277,No,Growth
+AI Researcher,Finance,Medium,Toronto,Low,Medium,95997.01903541492,No,Growth
+Software Engineer,Transportation,Large,Paris,Low,High,99722.55380174633,Yes,Decline
+Sales Manager,Finance,Small,London,Medium,High,114957.91916215842,No,Decline
+Data Scientist,Transportation,Large,London,Medium,High,91078.4085061156,No,Growth
+Data Scientist,Healthcare,Medium,Paris,High,Low,148467.11234638176,Yes,Stable
+Sales Manager,Telecommunications,Small,Sydney,High,High,96128.19709970424,No,Growth
+HR Manager,Education,Medium,London,Low,Low,126849.58089134425,No,Growth
+Marketing Specialist,Finance,Medium,San Francisco,High,Medium,43343.24398951503,Yes,Growth
+HR Manager,Finance,Small,Dubai,Low,High,116994.7905910125,Yes,Growth
+Data Scientist,Entertainment,Small,Tokyo,Low,Medium,86384.7902040888,Yes,Decline
+Data Scientist,Transportation,Small,New York,High,Medium,51033.05481145457,No,Stable
+Sales Manager,Manufacturing,Small,London,Low,High,98410.9021845624,Yes,Growth
+Product Manager,Telecommunications,Small,Paris,Medium,Low,83940.88924031366,No,Stable
+HR Manager,Transportation,Small,Dubai,High,High,101601.06496896283,No,Stable
+Operations Manager,Entertainment,Small,Berlin,Medium,Medium,110221.52915102156,No,Stable
+Sales Manager,Technology,Large,Toronto,High,Medium,60216.99766476808,No,Growth
+AI Researcher,Transportation,Medium,Paris,Low,High,110298.37964910315,Yes,Decline
+Data Scientist,Education,Small,San Francisco,High,Low,90129.58968441431,Yes,Growth
+Sales Manager,Telecommunications,Large,Toronto,Medium,Low,117056.82349386544,No,Stable
+HR Manager,Entertainment,Large,Tokyo,Low,Medium,85897.03542004264,Yes,Stable
+Data Scientist,Technology,Large,Tokyo,High,Medium,80591.82214937158,No,Decline
+Marketing Specialist,Retail,Medium,Sydney,High,Low,90541.08081377904,No,Growth
+Sales Manager,Entertainment,Small,Singapore,High,High,92037.21412759706,No,Stable
+Cybersecurity Analyst,Retail,Large,Sydney,Medium,Medium,76744.30397016529,Yes,Decline
+Data Scientist,Telecommunications,Medium,Dubai,Medium,Low,80073.90538089433,No,Stable
+HR Manager,Finance,Medium,Toronto,High,Medium,65462.48930972422,No,Decline
+Software Engineer,Entertainment,Medium,Singapore,Low,High,81307.09820419611,Yes,Decline
+Operations Manager,Healthcare,Large,Berlin,Low,Low,103526.20119995158,Yes,Growth
+UX Designer,Retail,Small,San Francisco,Medium,Medium,87252.91652187712,Yes,Stable
+Product Manager,Education,Large,Toronto,Low,High,110181.30592094656,Yes,Growth
+UX Designer,Healthcare,Large,Sydney,Medium,Medium,86291.41064693853,No,Stable
+HR Manager,Energy,Small,New York,High,High,61369.64004553371,Yes,Growth
+AI Researcher,Energy,Small,Singapore,Medium,High,101945.49775113164,No,Stable
+AI Researcher,Technology,Small,Singapore,Medium,Low,76527.53717933195,Yes,Growth
+Software Engineer,Finance,Medium,San Francisco,High,High,85332.65422472931,Yes,Decline
+Product Manager,Telecommunications,Small,London,Low,Medium,114751.44094968236,Yes,Stable
+Cybersecurity Analyst,Entertainment,Large,Tokyo,Medium,High,66782.59080556972,Yes,Stable
+Software Engineer,Manufacturing,Small,Tokyo,Medium,High,93294.8757492877,Yes,Decline
+UX Designer,Education,Large,New York,High,Low,89189.63299928416,Yes,Growth
+Software Engineer,Retail,Medium,Dubai,Low,High,104018.51430874206,No,Stable
+UX Designer,Telecommunications,Large,Dubai,Medium,High,107103.06730964044,Yes,Stable
+Data Scientist,Healthcare,Large,Berlin,High,Medium,95276.78008497784,Yes,Growth
+AI Researcher,Energy,Small,Toronto,Medium,Low,82792.507068392,Yes,Decline
+Data Scientist,Education,Small,Paris,High,Low,99467.4500805192,Yes,Growth
+Operations Manager,Manufacturing,Large,London,Low,Low,116713.11794289124,No,Growth
+Product Manager,Entertainment,Small,Sydney,Low,High,89454.20120720599,Yes,Growth
+Cybersecurity Analyst,Technology,Medium,Paris,Low,Low,84654.87771153946,Yes,Stable
+UX Designer,Manufacturing,Medium,Paris,Low,High,97763.4051533598,Yes,Decline
+Cybersecurity Analyst,Education,Small,Singapore,Medium,High,90774.54040739224,Yes,Decline
+UX Designer,Manufacturing,Medium,New York,Medium,Medium,63245.81152164402,No,Growth
+HR Manager,Education,Small,Tokyo,Low,Medium,94786.61600794963,Yes,Stable
+Software Engineer,Education,Large,Berlin,Low,Medium,63064.75182472472,No,Growth
+Operations Manager,Transportation,Large,Dubai,Low,Medium,97489.6129281689,Yes,Stable
+AI Researcher,Retail,Medium,New York,Medium,Medium,74057.14551186866,No,Stable
+UX Designer,Energy,Small,Singapore,Low,High,90737.49608372692,No,Stable
+Cybersecurity Analyst,Transportation,Small,Sydney,Low,High,97811.87812398472,Yes,Stable
+Operations Manager,Entertainment,Medium,Berlin,Low,Low,139078.06691887142,Yes,Decline
+Marketing Specialist,Transportation,Large,Singapore,High,High,104854.99923573848,No,Stable
+Marketing Specialist,Finance,Medium,Tokyo,Low,High,117295.97619484668,No,Stable
+Data Scientist,Finance,Large,Tokyo,High,Medium,127434.9563738785,Yes,Growth
+AI Researcher,Energy,Small,Tokyo,High,High,99785.1183399889,No,Growth
+HR Manager,Manufacturing,Large,New York,Low,Medium,95713.796005344,No,Decline
+Cybersecurity Analyst,Retail,Medium,New York,High,Low,68665.57782347569,No,Growth
+Software Engineer,Energy,Small,Dubai,Low,Low,87667.40135199211,Yes,Stable
+Software Engineer,Education,Medium,Dubai,Medium,High,75538.24540728275,No,Growth
+Cybersecurity Analyst,Healthcare,Medium,Sydney,Medium,Low,81978.82299751228,No,Decline
+Product Manager,Retail,Large,Berlin,Medium,High,127413.26752384935,No,Growth
+HR Manager,Retail,Medium,San Francisco,Medium,Low,92292.4301839998,Yes,Growth
+Operations Manager,Education,Large,San Francisco,High,Medium,72482.00844567783,Yes,Decline
+UX Designer,Education,Small,Singapore,Low,Medium,117490.66909382609,No,Decline
+Product Manager,Technology,Large,Tokyo,Low,Medium,109105.50952474898,Yes,Stable
+UX Designer,Energy,Small,Berlin,Low,Medium,110153.06985200792,No,Growth
+UX Designer,Education,Large,Paris,Medium,High,49877.3959379521,Yes,Stable
+Product Manager,Finance,Medium,New York,Medium,Low,128973.41915442972,Yes,Growth
+Data Scientist,Entertainment,Large,Toronto,Low,High,78829.70515812226,No,Growth
+Marketing Specialist,Healthcare,Large,London,Medium,Medium,105559.0954558551,Yes,Stable
+UX Designer,Energy,Small,Sydney,Low,High,140475.99581234064,Yes,Growth
+Product Manager,Telecommunications,Medium,Tokyo,Low,Low,133106.65496381235,Yes,Growth
+Product Manager,Finance,Large,Tokyo,Low,High,70448.75749054627,No,Growth
+Sales Manager,Manufacturing,Medium,Tokyo,Low,Low,61109.65325995454,Yes,Decline
+Data Scientist,Education,Large,New York,Low,High,118606.93197695856,Yes,Stable
+AI Researcher,Telecommunications,Large,New York,Low,Low,92841.11623188,No,Decline
+Sales Manager,Education,Medium,London,Low,Low,79982.3711739584,Yes,Stable
+Sales Manager,Retail,Large,Paris,Medium,Medium,102424.37093878096,Yes,Stable
+Cybersecurity Analyst,Finance,Medium,Berlin,Low,Low,86742.40845081118,Yes,Growth
+Marketing Specialist,Retail,Large,Tokyo,Low,Medium,104026.48274097488,Yes,Stable
+Product Manager,Technology,Small,San Francisco,Medium,Medium,91339.63615637466,Yes,Decline
+Marketing Specialist,Retail,Medium,Dubai,Medium,Medium,104447.75856656334,No,Decline
+HR Manager,Technology,Large,San Francisco,Medium,High,72109.34621727222,No,Decline
+Cybersecurity Analyst,Technology,Large,Singapore,Low,High,118489.24026265267,Yes,Stable
+AI Researcher,Telecommunications,Small,San Francisco,High,High,103952.46741464877,Yes,Decline
+Marketing Specialist,Education,Medium,Singapore,High,High,102925.94738807144,Yes,Stable
+Software Engineer,Manufacturing,Large,Toronto,Medium,Low,67646.60145976013,No,Decline
+UX Designer,Retail,Small,Dubai,High,Low,123992.64833288494,No,Decline
+HR Manager,Finance,Large,San Francisco,Medium,High,89725.67801267463,Yes,Stable
+Data Scientist,Technology,Medium,Toronto,Low,Low,104560.97724859684,Yes,Decline
+AI Researcher,Education,Large,Sydney,High,Low,83543.51072506783,No,Growth
+HR Manager,Healthcare,Large,Berlin,Low,Medium,95217.78129364197,Yes,Stable
+UX Designer,Energy,Large,Toronto,High,Medium,95942.54704238808,No,Stable
+Cybersecurity Analyst,Telecommunications,Large,Berlin,Low,Medium,33601.38135993158,No,Stable
+UX Designer,Manufacturing,Small,San Francisco,High,Medium,101648.96249309662,Yes,Growth
+Sales Manager,Transportation,Small,Paris,Low,Low,129306.82923444168,No,Stable
+UX Designer,Telecommunications,Medium,Toronto,Low,High,100795.60517983914,Yes,Decline
+Sales Manager,Healthcare,Small,Dubai,High,Low,70845.83502220524,Yes,Decline
+Cybersecurity Analyst,Energy,Small,San Francisco,Low,Low,102999.23132307774,Yes,Decline
+Operations Manager,Healthcare,Medium,Tokyo,Low,Low,111189.61060346678,Yes,Stable
+Sales Manager,Retail,Small,New York,Low,Medium,100249.33032380774,Yes,Decline
+Data Scientist,Technology,Small,Toronto,High,Medium,88517.45787139912,Yes,Stable
+UX Designer,Manufacturing,Medium,Dubai,High,Medium,85157.01548352139,No,Decline
+UX Designer,Entertainment,Medium,Sydney,Low,High,85073.80489266386,No,Growth
+Data Scientist,Technology,Medium,Tokyo,Low,Low,103955.53802022424,No,Growth
+Software Engineer,Entertainment,Large,Sydney,High,High,61857.52009880744,No,Growth
+Product Manager,Energy,Large,San Francisco,High,Medium,82562.53678289187,Yes,Growth
+Operations Manager,Education,Medium,New York,Low,High,121912.19646021895,No,Stable
+AI Researcher,Transportation,Medium,Toronto,Low,Low,122683.90533154352,No,Decline
+Sales Manager,Finance,Medium,Toronto,Low,Low,60437.05824396676,No,Growth
+Data Scientist,Technology,Large,Paris,Medium,Medium,67371.72777472783,Yes,Stable
+Cybersecurity Analyst,Manufacturing,Large,Paris,High,Medium,84587.58840944126,No,Growth
+Sales Manager,Healthcare,Small,San Francisco,Medium,High,107851.79034228704,Yes,Growth
+Product Manager,Manufacturing,Small,San Francisco,High,Medium,53450.51291894019,No,Stable
+Cybersecurity Analyst,Energy,Medium,New York,High,Medium,88903.82730165044,Yes,Stable
+HR Manager,Entertainment,Large,Paris,High,Low,80516.4168684071,Yes,Decline
+UX Designer,Healthcare,Large,Dubai,High,Medium,116519.29348570466,No,Decline
+HR Manager,Finance,Large,Dubai,High,Medium,56461.83052061492,Yes,Growth
+Sales Manager,Finance,Medium,New York,High,Low,91850.81230987245,Yes,Growth
+Product Manager,Technology,Small,Dubai,High,Low,82127.81125302812,No,Decline
+Operations Manager,Energy,Medium,Singapore,Medium,High,119395.97852554575,No,Decline
+Sales Manager,Education,Small,Berlin,Low,Medium,101953.052927065,No,Stable
+Data Scientist,Energy,Small,New York,Low,Low,78283.6868148453,Yes,Decline
+Marketing Specialist,Entertainment,Medium,New York,Medium,High,107067.72886658164,Yes,Decline
+Sales Manager,Manufacturing,Small,London,Medium,High,82223.42293382852,Yes,Growth
+UX Designer,Finance,Small,Tokyo,Medium,Medium,109986.59422479507,No,Decline
+UX Designer,Manufacturing,Large,Tokyo,Medium,Medium,85258.46018228843,Yes,Growth
+Sales Manager,Manufacturing,Small,Singapore,High,High,111093.33157537528,Yes,Decline
+Cybersecurity Analyst,Manufacturing,Medium,Paris,Low,Low,98721.639102545,Yes,Stable
+Marketing Specialist,Finance,Medium,San Francisco,High,High,155209.82161382848,Yes,Decline
+Data Scientist,Telecommunications,Small,San Francisco,Low,Medium,88942.07989167991,Yes,Decline
+Sales Manager,Retail,Large,Sydney,Low,Low,97657.24583242898,Yes,Decline
+Cybersecurity Analyst,Entertainment,Large,Singapore,Medium,Low,80411.50516568137,Yes,Growth
+UX Designer,Telecommunications,Small,New York,High,High,90053.70681509557,No,Stable
+UX Designer,Entertainment,Small,Singapore,Medium,Medium,35963.29731701118,No,Decline
+Product Manager,Healthcare,Medium,Singapore,High,High,99311.68033082064,No,Growth
+Sales Manager,Energy,Small,Singapore,Low,High,116857.48425898825,Yes,Stable
+Marketing Specialist,Energy,Large,Tokyo,Medium,High,97932.60009198709,Yes,Growth
+Software Engineer,Transportation,Small,Singapore,Medium,Low,63722.77084045245,No,Growth
+Marketing Specialist,Energy,Medium,Berlin,Low,Low,73964.25694581997,Yes,Stable
+UX Designer,Finance,Medium,San Francisco,Low,Medium,41396.15745687459,No,Decline
+UX Designer,Education,Medium,Sydney,Low,Medium,109578.48013730848,Yes,Growth
+HR Manager,Technology,Medium,Berlin,Medium,High,69869.7341458084,Yes,Growth
+UX Designer,Transportation,Medium,Sydney,High,High,89425.82819575544,No,Decline
+Data Scientist,Technology,Small,London,Medium,High,86925.2485534556,No,Decline
+AI Researcher,Entertainment,Small,Sydney,High,Medium,119754.54071316532,No,Stable
+Sales Manager,Technology,Small,San Francisco,Medium,Low,91705.62635931476,No,Stable
+Marketing Specialist,Technology,Small,San Francisco,Medium,Low,106177.8584021202,No,Stable
+AI Researcher,Transportation,Medium,Singapore,Low,High,100929.27528295324,Yes,Decline
+Cybersecurity Analyst,Healthcare,Large,Toronto,High,High,117188.22839922798,Yes,Growth
+Software Engineer,Manufacturing,Small,London,Medium,High,85217.52610994082,Yes,Growth
+Data Scientist,Energy,Large,New York,Medium,High,127392.30661009034,No,Stable
+Marketing Specialist,Energy,Small,Dubai,Low,Medium,50286.7568720137,No,Decline
+AI Researcher,Finance,Small,Sydney,Low,Low,107149.46996002473,No,Growth
+Software Engineer,Transportation,Large,Toronto,High,High,72667.60782671736,No,Stable
+HR Manager,Finance,Medium,Singapore,Medium,Medium,80145.00894440095,No,Growth
+Data Scientist,Education,Small,Tokyo,High,High,101388.28533802072,No,Growth
+Data Scientist,Education,Small,New York,Medium,High,101228.04099695486,Yes,Decline
+HR Manager,Finance,Small,Paris,High,Low,102128.56027380144,Yes,Decline
+Sales Manager,Transportation,Large,Toronto,Low,High,62276.84111789524,Yes,Growth
+HR Manager,Finance,Medium,Tokyo,Medium,Low,118980.6046255848,Yes,Stable
+Data Scientist,Energy,Large,London,High,Low,71987.05763544649,Yes,Decline
+Data Scientist,Telecommunications,Large,Singapore,Low,Low,74654.25819549602,No,Growth
+AI Researcher,Retail,Medium,New York,Low,Medium,102757.93476333655,No,Decline
+UX Designer,Technology,Large,New York,High,Medium,84265.57650477519,No,Decline
+Software Engineer,Retail,Medium,New York,Medium,Low,96165.21681124983,No,Decline
+HR Manager,Transportation,Small,London,Medium,High,46867.98606734424,No,Growth
+Software Engineer,Retail,Medium,Sydney,Low,Low,95686.48899038463,No,Stable
+HR Manager,Education,Small,Paris,Medium,High,94356.6375902443,Yes,Stable
+Cybersecurity Analyst,Entertainment,Large,London,Medium,Low,79802.82924471433,No,Stable
+Data Scientist,Technology,Large,Dubai,Medium,High,48518.48080470421,No,Decline
+UX Designer,Manufacturing,Small,Paris,Low,Medium,85743.8347703679,No,Growth
+AI Researcher,Transportation,Large,San Francisco,High,High,89252.52280402774,No,Decline
+UX Designer,Technology,Medium,Singapore,Medium,Low,82655.4201933901,Yes,Stable
+UX Designer,Retail,Small,London,Low,Medium,53276.51071135004,Yes,Stable
+UX Designer,Education,Large,Tokyo,Low,High,121894.68014633832,No,Growth
+Software Engineer,Healthcare,Small,Paris,High,High,77222.76944111254,Yes,Decline
+HR Manager,Telecommunications,Medium,Dubai,Medium,High,85555.90674154198,Yes,Stable
+Operations Manager,Manufacturing,Medium,San Francisco,Medium,High,41810.51357563419,No,Growth
+Cybersecurity Analyst,Telecommunications,Large,Sydney,High,High,121897.10697396414,No,Decline
+Marketing Specialist,Technology,Medium,Tokyo,High,Medium,80669.00136531888,No,Decline
+UX Designer,Education,Small,Paris,Low,Medium,91969.25634148406,No,Stable
+Sales Manager,Education,Medium,Singapore,Low,Medium,112414.74889633304,No,Stable
+Software Engineer,Retail,Small,Tokyo,High,Medium,76473.91590566748,Yes,Decline
+AI Researcher,Energy,Small,San Francisco,Medium,Low,109264.89974773087,No,Decline
+Marketing Specialist,Retail,Medium,Tokyo,Low,Medium,48773.49088117717,No,Stable
+Operations Manager,Energy,Large,Berlin,Low,High,101019.73315142626,No,Decline
+Sales Manager,Energy,Medium,Toronto,Medium,High,121444.84333039304,Yes,Stable
+Operations Manager,Manufacturing,Small,Sydney,Low,Medium,78391.66305563941,No,Decline
+Marketing Specialist,Retail,Small,San Francisco,Medium,High,112377.63240596798,No,Stable
+UX Designer,Healthcare,Medium,Tokyo,Medium,Medium,126678.45304387566,No,Growth
+Sales Manager,Finance,Large,Toronto,Medium,High,84903.16323891962,Yes,Stable
+Operations Manager,Finance,Large,Toronto,High,Low,83249.43428300279,No,Stable
+AI Researcher,Retail,Small,Tokyo,High,Low,72034.12508335392,No,Growth
+HR Manager,Retail,Small,Singapore,High,Medium,79805.39689629733,No,Decline
+Data Scientist,Telecommunications,Large,Berlin,Medium,Medium,73692.80219454759,Yes,Growth
+HR Manager,Manufacturing,Medium,London,Medium,Medium,72017.77803145545,No,Stable
+Marketing Specialist,Retail,Small,Berlin,High,High,113976.70593422712,No,Decline
+Software Engineer,Telecommunications,Small,Tokyo,Low,Medium,74201.47949423481,No,Growth
+Data Scientist,Energy,Large,Sydney,Medium,Low,95170.43829439246,Yes,Decline
+Cybersecurity Analyst,Education,Medium,London,Low,High,90764.66870432477,No,Decline
+AI Researcher,Education,Large,San Francisco,Low,Medium,119961.89125142244,No,Growth
+Cybersecurity Analyst,Energy,Medium,Berlin,Medium,High,79936.87535889974,No,Decline
+Sales Manager,Transportation,Medium,Tokyo,Medium,High,97622.96093308643,Yes,Growth
+Data Scientist,Telecommunications,Medium,Berlin,Low,Medium,105821.3940455222,Yes,Stable
+Cybersecurity Analyst,Telecommunications,Small,London,Low,High,119794.99214641162,No,Decline
+Cybersecurity Analyst,Energy,Large,Dubai,High,Low,79644.93309909466,Yes,Stable
+Operations Manager,Healthcare,Large,Paris,High,Low,77642.1506253524,Yes,Stable
+HR Manager,Entertainment,Medium,Berlin,Medium,High,68764.37892079895,Yes,Decline
+Operations Manager,Finance,Medium,Dubai,High,Medium,94203.2460782799,Yes,Decline
+Cybersecurity Analyst,Finance,Small,London,High,Low,60291.56759695584,Yes,Decline
+Cybersecurity Analyst,Transportation,Small,Sydney,High,Medium,89906.03138710353,Yes,Decline
+HR Manager,Transportation,Medium,New York,High,High,64147.305314261685,Yes,Stable
+UX Designer,Entertainment,Large,London,Medium,Low,131549.37581178924,Yes,Stable
+Operations Manager,Retail,Large,Paris,Low,High,114805.59513505036,Yes,Decline
+HR Manager,Healthcare,Medium,New York,High,High,59088.34601909993,Yes,Growth
+HR Manager,Finance,Medium,Paris,Medium,Low,107288.53171827896,No,Decline
+HR Manager,Education,Large,Toronto,Medium,High,90315.2337995952,Yes,Decline
+AI Researcher,Retail,Small,New York,Medium,Medium,93632.62438132356,Yes,Growth
+Product Manager,Transportation,Small,Dubai,Low,Medium,85298.43934429361,Yes,Decline
+Operations Manager,Finance,Small,Singapore,Low,High,136031.34370992292,No,Decline
+AI Researcher,Energy,Small,Berlin,Low,Low,102670.68408179365,No,Decline
+Cybersecurity Analyst,Entertainment,Large,Dubai,Medium,Medium,77071.25982896592,Yes,Stable
+UX Designer,Energy,Large,London,Medium,Low,92342.5162018305,Yes,Decline
+HR Manager,Technology,Small,Toronto,High,Low,95964.71882000112,Yes,Decline
+Marketing Specialist,Technology,Medium,Singapore,Low,High,114873.66712704716,Yes,Growth
+Cybersecurity Analyst,Retail,Large,New York,High,Medium,77104.99509535616,Yes,Stable
+Software Engineer,Energy,Medium,Dubai,High,Medium,86257.06289670897,Yes,Growth
+Cybersecurity Analyst,Healthcare,Medium,Singapore,High,Low,106228.2365834996,No,Stable
+Software Engineer,Manufacturing,Large,London,Medium,High,85245.49585921851,Yes,Stable
+AI Researcher,Finance,Large,Toronto,Low,Low,88601.93008905348,Yes,Growth
+Software Engineer,Retail,Large,New York,Low,Medium,69504.09439659235,No,Growth
+Sales Manager,Finance,Medium,Toronto,Medium,High,85638.7337951249,Yes,Growth
+Sales Manager,Healthcare,Large,Toronto,Low,Low,96189.24989858316,Yes,Decline
+Marketing Specialist,Telecommunications,Medium,London,High,Medium,115964.43140034971,No,Decline
+Operations Manager,Education,Small,Dubai,Medium,Medium,69097.82219136231,No,Growth
+Cybersecurity Analyst,Energy,Large,Singapore,Medium,High,111912.0588146011,Yes,Decline
+Product Manager,Retail,Large,Tokyo,Low,Low,45170.79004723046,Yes,Stable
+Cybersecurity Analyst,Education,Large,San Francisco,Low,Medium,66337.5019744026,Yes,Decline
+Cybersecurity Analyst,Energy,Large,Dubai,Low,Medium,63864.691691412576,Yes,Stable
+Sales Manager,Healthcare,Medium,New York,High,Medium,91839.29513191553,No,Decline
+Cybersecurity Analyst,Finance,Large,New York,Medium,Low,73669.37187336881,No,Decline
+Product Manager,Education,Small,Sydney,High,High,105634.74989328724,Yes,Decline
+Data Scientist,Technology,Large,Tokyo,Medium,High,71197.02797511377,No,Decline
+Marketing Specialist,Education,Medium,New York,Medium,Low,103990.13834595104,No,Stable
+Marketing Specialist,Finance,Large,Toronto,High,Low,134381.03576249006,Yes,Stable
+Marketing Specialist,Retail,Medium,Dubai,Low,High,53838.47277349724,Yes,Growth
+Marketing Specialist,Retail,Medium,New York,Low,High,114334.47740605992,Yes,Decline
+Marketing Specialist,Finance,Small,Dubai,High,High,67386.42313719148,No,Decline
+AI Researcher,Finance,Medium,New York,Low,Low,108413.00727121932,No,Growth
+Operations Manager,Energy,Medium,London,Low,Low,103501.55349742583,Yes,Growth
+UX Designer,Energy,Large,Sydney,Medium,High,60995.192035921005,No,Stable
+Product Manager,Energy,Large,London,Medium,Medium,106377.32004347624,Yes,Stable
+Software Engineer,Technology,Medium,Dubai,High,High,96738.30743272627,Yes,Decline
+HR Manager,Manufacturing,Small,Paris,Low,Low,107301.19205894318,No,Stable
+AI Researcher,Transportation,Large,New York,High,Low,70070.17477613786,No,Stable
+Operations Manager,Education,Medium,London,Medium,Low,104915.67906909242,No,Decline
+UX Designer,Entertainment,Large,Dubai,Low,High,82657.86402040329,No,Decline
+Product Manager,Technology,Large,Dubai,High,Low,76497.44243965014,Yes,Decline
+Product Manager,Retail,Medium,San Francisco,Medium,Medium,85434.05180292134,No,Decline
+Software Engineer,Manufacturing,Medium,Berlin,Medium,Low,108192.90206811746,No,Decline
+HR Manager,Retail,Medium,Paris,Low,Medium,144310.99115539307,Yes,Decline
+Sales Manager,Telecommunications,Medium,Paris,Low,Low,113195.8131972368,No,Decline
+HR Manager,Finance,Small,Berlin,High,High,78384.68218730364,Yes,Stable
+Operations Manager,Education,Small,London,High,Low,81557.16237256138,No,Decline
+Data Scientist,Retail,Small,Toronto,Low,High,74544.66661540634,Yes,Growth
+Sales Manager,Manufacturing,Small,San Francisco,High,High,82553.12496125413,No,Stable
+Marketing Specialist,Technology,Large,London,Low,Low,79388.04854013577,Yes,Growth
+Sales Manager,Education,Large,Toronto,Low,High,115388.61417584526,Yes,Growth
+Sales Manager,Energy,Large,San Francisco,Low,Medium,81989.16796234486,Yes,Decline
+HR Manager,Manufacturing,Medium,Dubai,High,Medium,106052.1661994438,Yes,Decline
+Sales Manager,Finance,Small,London,Medium,Medium,106541.1625118644,Yes,Decline
+Operations Manager,Healthcare,Small,Dubai,Low,Medium,140928.3619497907,Yes,Decline
+Product Manager,Healthcare,Medium,London,High,Medium,110335.61316621907,Yes,Growth
+HR Manager,Energy,Small,San Francisco,Medium,High,80421.19574164937,No,Growth
+HR Manager,Entertainment,Small,Paris,Low,High,90758.3480689884,No,Decline
+Cybersecurity Analyst,Technology,Medium,San Francisco,Low,Medium,94982.43348398808,Yes,Decline
+Data Scientist,Energy,Large,San Francisco,Medium,Medium,104300.85730736564,Yes,Growth
+AI Researcher,Retail,Small,Sydney,Low,High,62545.442571506486,No,Decline
+Data Scientist,Finance,Small,London,High,Medium,93414.05153918616,No,Growth
+Sales Manager,Healthcare,Medium,Singapore,Medium,Medium,125032.810877207,No,Decline
+UX Designer,Technology,Small,Tokyo,High,Medium,80297.76465871853,Yes,Stable
+Marketing Specialist,Telecommunications,Small,San Francisco,Low,Medium,70115.43262305026,Yes,Stable
+Operations Manager,Finance,Large,Paris,Medium,Low,108571.221245341,No,Decline
+Data Scientist,Entertainment,Small,Tokyo,Medium,High,80070.21551495961,Yes,Growth
+Operations Manager,Entertainment,Large,Paris,High,Low,60733.96819058596,Yes,Stable
+Product Manager,Telecommunications,Large,Tokyo,High,High,67412.78857667779,Yes,Decline
+Sales Manager,Telecommunications,Small,Paris,Low,Medium,100068.97972930533,Yes,Growth
+Sales Manager,Transportation,Large,Toronto,High,Medium,80854.87441917995,Yes,Decline
+Cybersecurity Analyst,Retail,Small,Singapore,Low,Low,100727.79770594038,No,Decline
+UX Designer,Transportation,Large,London,High,Low,100474.87097655008,Yes,Growth
+AI Researcher,Energy,Small,Toronto,Low,High,95699.83294434156,No,Decline
+Operations Manager,Telecommunications,Large,Sydney,Medium,Low,55827.26690982604,Yes,Stable
+UX Designer,Energy,Small,Sydney,High,High,146513.74578331475,Yes,Decline
+Sales Manager,Technology,Medium,Paris,Medium,Low,76544.1864885286,No,Growth
+Marketing Specialist,Healthcare,Medium,Toronto,Low,Medium,75609.10491755993,No,Growth
+Operations Manager,Finance,Large,Toronto,Low,High,112883.30686921444,No,Growth
+Cybersecurity Analyst,Finance,Small,San Francisco,High,Low,107483.45318983888,Yes,Stable
+Data Scientist,Retail,Small,Sydney,Medium,Medium,101855.05010301848,No,Growth
+Product Manager,Transportation,Large,Toronto,High,High,113210.10438317047,No,Stable
+Software Engineer,Manufacturing,Large,Sydney,Low,Low,91668.14374341907,Yes,Stable
+Data Scientist,Transportation,Small,Singapore,High,High,80215.70395598227,No,Decline
+Cybersecurity Analyst,Finance,Medium,Dubai,Low,Low,77130.45564396537,No,Growth
+Product Manager,Technology,Large,Singapore,High,Medium,108407.78430365246,Yes,Decline
+Cybersecurity Analyst,Finance,Medium,Singapore,Medium,Medium,73664.21125755625,Yes,Decline
+Marketing Specialist,Manufacturing,Medium,San Francisco,Low,Low,65006.601258577895,No,Growth
+AI Researcher,Manufacturing,Medium,Singapore,Low,High,104206.80055725134,No,Decline
+HR Manager,Manufacturing,Large,Tokyo,Medium,High,83086.39084493957,No,Decline
+UX Designer,Telecommunications,Large,Sydney,Low,Medium,92256.15061910413,Yes,Decline
+Software Engineer,Technology,Small,Berlin,Medium,Medium,79396.7639002623,Yes,Stable
+Marketing Specialist,Finance,Large,Tokyo,High,High,77029.56111532927,Yes,Growth
+Marketing Specialist,Retail,Large,Sydney,High,Low,119987.95757503272,No,Stable
+Product Manager,Healthcare,Large,New York,Low,High,83453.4665263351,Yes,Growth
+Data Scientist,Finance,Medium,Dubai,Medium,Low,110581.45696252798,Yes,Stable
+Product Manager,Telecommunications,Small,Berlin,Low,Low,84485.14437005545,No,Stable
+Sales Manager,Entertainment,Small,San Francisco,Medium,High,70360.23506885546,Yes,Growth
+Data Scientist,Entertainment,Large,London,Low,High,60879.81076183519,Yes,Growth
+Product Manager,Healthcare,Large,Toronto,Low,Medium,87106.17533327566,Yes,Stable
+Product Manager,Entertainment,Medium,San Francisco,Low,Low,97108.78330337293,No,Stable
+Software Engineer,Telecommunications,Medium,Singapore,Medium,Low,61479.99129866455,No,Growth
+Software Engineer,Retail,Large,Paris,Medium,Medium,72444.18842283246,No,Stable
+UX Designer,Telecommunications,Small,Singapore,High,Medium,62087.16884951255,No,Growth
+Product Manager,Entertainment,Small,Tokyo,Medium,High,84122.55218672873,No,Growth
+Product Manager,Manufacturing,Large,Tokyo,Low,High,101186.7784970752,Yes,Stable
+UX Designer,Education,Large,Singapore,Medium,Medium,93362.78981380972,Yes,Stable
+HR Manager,Finance,Large,San Francisco,Medium,Medium,95259.83276659135,No,Decline
+Sales Manager,Healthcare,Large,London,Medium,Medium,126788.93787942242,Yes,Stable
+Data Scientist,Finance,Medium,Toronto,Low,Medium,55073.97387286834,Yes,Growth
+AI Researcher,Energy,Small,Singapore,High,Low,88839.07448460959,Yes,Decline
+Sales Manager,Energy,Small,Singapore,Low,Medium,84336.9607749247,Yes,Stable
+Cybersecurity Analyst,Transportation,Small,Tokyo,Medium,Medium,89915.81457118047,No,Stable
+Product Manager,Manufacturing,Medium,Berlin,Low,Medium,107790.2532717552,No,Decline
+AI Researcher,Transportation,Small,Tokyo,Low,Low,70474.29746491084,Yes,Decline
+Marketing Specialist,Entertainment,Medium,Singapore,High,High,72758.36195091315,No,Stable
+Sales Manager,Education,Medium,London,High,Medium,84938.65299887492,No,Growth
+Data Scientist,Telecommunications,Small,Tokyo,High,Low,107904.9742550661,No,Stable
+HR Manager,Finance,Medium,London,Medium,Medium,79362.83163560124,Yes,Growth
+Operations Manager,Telecommunications,Medium,San Francisco,Low,High,87959.46022885351,No,Growth
+Cybersecurity Analyst,Finance,Large,Berlin,High,High,97812.38974760544,No,Growth
+Marketing Specialist,Retail,Medium,Singapore,Medium,Medium,82470.12432492067,No,Growth
+Product Manager,Transportation,Medium,Dubai,Medium,Medium,89924.54326401577,Yes,Decline
+Operations Manager,Entertainment,Medium,Sydney,Low,High,57601.49035705726,No,Stable
+Data Scientist,Energy,Medium,London,Medium,Medium,98183.50702643464,No,Growth
+Data Scientist,Telecommunications,Large,Paris,Low,High,78778.43005960314,No,Decline
+Sales Manager,Transportation,Medium,Toronto,High,High,68146.1119250502,Yes,Growth
+Product Manager,Retail,Large,San Francisco,Medium,High,94696.6320439306,Yes,Growth
+HR Manager,Healthcare,Small,New York,Low,Low,101333.76446975186,Yes,Stable
+Cybersecurity Analyst,Finance,Small,Dubai,Medium,Medium,86895.44354351173,No,Stable
+Marketing Specialist,Education,Medium,Tokyo,Medium,Medium,80410.64384218885,No,Decline
+Marketing Specialist,Technology,Large,Berlin,Medium,High,115484.06615911624,Yes,Growth
+HR Manager,Manufacturing,Medium,San Francisco,Low,Medium,103789.03461415671,No,Decline
+Operations Manager,Telecommunications,Small,Toronto,High,Low,106091.25685584554,No,Growth
+HR Manager,Transportation,Large,Toronto,Low,Medium,82943.20695470914,No,Decline
+Sales Manager,Education,Large,Singapore,Medium,Low,87637.85139412279,No,Decline
+Data Scientist,Healthcare,Medium,Dubai,High,Low,111586.7942727434,Yes,Stable
+Operations Manager,Transportation,Large,New York,Low,Medium,80551.7343814759,Yes,Stable
+Data Scientist,Telecommunications,Small,Singapore,Low,High,111884.58944468873,No,Decline
+Software Engineer,Healthcare,Medium,Toronto,High,Medium,110850.55292939876,No,Stable
+Data Scientist,Energy,Small,Paris,Medium,Low,106162.19980041632,No,Growth
+Cybersecurity Analyst,Energy,Small,Tokyo,Low,Medium,104272.33874140146,Yes,Stable
+Product Manager,Healthcare,Medium,Berlin,Low,High,92385.76134970388,No,Growth
+HR Manager,Transportation,Small,Berlin,Medium,High,66618.3103184786,Yes,Growth
+HR Manager,Entertainment,Large,Berlin,Low,Medium,124277.50322153707,Yes,Stable
+HR Manager,Manufacturing,Small,London,Low,Low,101675.8985551561,Yes,Growth
+Software Engineer,Technology,Small,Tokyo,Medium,High,73160.23746518724,No,Decline
+Software Engineer,Transportation,Small,Tokyo,Medium,Medium,77119.50864595483,No,Stable
+Sales Manager,Technology,Medium,Dubai,Medium,High,97648.71472328872,Yes,Decline
+HR Manager,Transportation,Large,Toronto,High,High,92233.32693569217,No,Decline
+AI Researcher,Telecommunications,Medium,Berlin,Medium,High,66896.3669667871,No,Growth
+Sales Manager,Manufacturing,Large,New York,Low,High,84993.07984697977,No,Stable
+AI Researcher,Transportation,Medium,London,Low,Medium,60832.684351056574,No,Growth
+HR Manager,Technology,Medium,London,Medium,Low,77886.10802297521,No,Stable
+UX Designer,Retail,Large,Paris,Medium,Medium,61224.13779874951,Yes,Decline
+Product Manager,Technology,Small,New York,High,High,124068.45602902854,No,Growth
+UX Designer,Energy,Medium,Singapore,Medium,Low,46535.3855353561,No,Growth
+Sales Manager,Manufacturing,Small,San Francisco,Low,High,131939.613495807,Yes,Stable
+Sales Manager,Retail,Small,Tokyo,Medium,High,74752.93262991153,No,Growth
+UX Designer,Retail,Large,New York,Low,Low,109607.35847528042,No,Growth
+Marketing Specialist,Energy,Medium,Singapore,Low,Low,83237.83323666002,No,Decline
+AI Researcher,Healthcare,Medium,Toronto,Medium,Medium,93632.1262095828,Yes,Stable
+Data Scientist,Technology,Medium,London,High,High,87037.85697697067,No,Stable
+Operations Manager,Healthcare,Medium,Toronto,High,High,78766.56356614834,Yes,Decline
+Cybersecurity Analyst,Manufacturing,Large,Paris,Low,High,81770.60337579677,Yes,Growth
+HR Manager,Transportation,Large,Dubai,High,Low,69605.28727099932,Yes,Growth
+HR Manager,Energy,Medium,Dubai,High,Low,82054.97816648867,No,Stable
+Operations Manager,Healthcare,Medium,Toronto,Medium,High,101758.706083958,No,Decline
+Operations Manager,Education,Medium,Tokyo,High,Medium,100587.82926820904,Yes,Stable
+Product Manager,Technology,Large,Paris,Low,Low,77063.38639906148,No,Stable
+Product Manager,Healthcare,Medium,New York,Medium,Low,90026.85266193614,Yes,Growth
+Data Scientist,Transportation,Large,Berlin,High,Medium,88544.27797394918,No,Decline
+Product Manager,Telecommunications,Large,Dubai,Low,Low,100862.36349844011,No,Growth
+Software Engineer,Finance,Small,New York,Low,High,103538.52943920394,Yes,Growth
+HR Manager,Education,Small,Toronto,High,Medium,135106.46903287538,Yes,Growth
+AI Researcher,Healthcare,Medium,New York,High,Medium,89460.9250287414,No,Decline
+Software Engineer,Technology,Medium,Berlin,Medium,High,76328.00246993407,No,Decline
+UX Designer,Retail,Small,Sydney,Medium,Medium,78789.72324160334,Yes,Stable
+Software Engineer,Retail,Medium,Singapore,Low,High,77906.9459837455,Yes,Growth
+HR Manager,Finance,Small,New York,Low,Medium,72117.40931745099,No,Stable
+Sales Manager,Healthcare,Medium,Dubai,High,Low,99317.83037826032,No,Growth
+Sales Manager,Technology,Medium,Berlin,High,Medium,61750.13411560065,Yes,Stable
+Operations Manager,Retail,Large,Dubai,Low,High,115764.16412022598,No,Growth
+Operations Manager,Retail,Large,San Francisco,Low,High,52221.30811263501,Yes,Growth
+Operations Manager,Education,Large,Sydney,Medium,High,104220.14389029286,No,Growth
+Sales Manager,Transportation,Medium,Singapore,Low,High,52165.12431150756,No,Decline
+Data Scientist,Finance,Medium,Sydney,Medium,Low,58665.634267681104,Yes,Growth
+Marketing Specialist,Energy,Small,New York,Medium,Medium,84104.27432278765,Yes,Growth
+Marketing Specialist,Manufacturing,Large,Sydney,Medium,Medium,54206.35563544582,No,Growth
+AI Researcher,Transportation,Medium,San Francisco,Medium,High,63569.2912765677,No,Growth
+Data Scientist,Retail,Small,Tokyo,Low,High,94855.08012211292,Yes,Growth
+AI Researcher,Technology,Large,San Francisco,Medium,High,92936.60306982078,Yes,Decline
+Sales Manager,Education,Small,Singapore,Medium,Medium,104494.26894995027,No,Stable
+HR Manager,Education,Medium,New York,Medium,Low,111948.88425036386,Yes,Stable
+Product Manager,Telecommunications,Small,Toronto,Medium,Medium,93247.75965546168,Yes,Decline
+UX Designer,Retail,Large,Berlin,Low,Low,64273.39763406574,No,Decline
+Operations Manager,Healthcare,Medium,Singapore,Medium,Low,103920.1389395741,Yes,Stable
+Cybersecurity Analyst,Technology,Small,New York,Medium,Low,72272.75153980192,Yes,Decline
+Marketing Specialist,Finance,Medium,San Francisco,High,Low,113692.1878323651,No,Growth
+Data Scientist,Education,Large,Dubai,Low,High,78557.588934032,No,Growth
+Marketing Specialist,Energy,Medium,Tokyo,Medium,High,82872.75528710714,Yes,Stable
+Sales Manager,Transportation,Large,Tokyo,Low,Low,98622.94011312236,Yes,Growth
+AI Researcher,Retail,Medium,Paris,High,Medium,85801.06549125763,No,Stable
+Sales Manager,Telecommunications,Medium,San Francisco,Medium,Medium,96539.98059956786,Yes,Decline
+Sales Manager,Education,Large,London,High,High,75437.53523372958,Yes,Growth
+Marketing Specialist,Transportation,Small,Paris,Low,Medium,102029.24576066624,No,Growth
+Data Scientist,Energy,Large,London,Medium,High,68930.90088689807,No,Decline
+AI Researcher,Energy,Large,Dubai,Low,High,128707.54664251236,Yes,Decline
+Software Engineer,Healthcare,Small,San Francisco,Medium,High,86685.39578320662,No,Stable
+HR Manager,Retail,Large,Tokyo,Low,Medium,98185.64626440308,No,Decline
+Data Scientist,Entertainment,Small,Dubai,High,Low,89356.32896490785,Yes,Growth
+AI Researcher,Energy,Medium,New York,High,Low,84009.57269117224,No,Decline
+Software Engineer,Education,Large,Berlin,High,Medium,126409.82061159072,No,Decline
+Product Manager,Energy,Small,Berlin,Medium,High,93021.47917217534,Yes,Growth
+AI Researcher,Technology,Large,Toronto,Low,Low,66467.18185329941,Yes,Stable
+Data Scientist,Retail,Small,Tokyo,High,Medium,96291.45875850804,No,Decline
+UX Designer,Healthcare,Medium,Paris,High,High,126329.06840466928,No,Decline
+Cybersecurity Analyst,Retail,Medium,Sydney,Low,Medium,49033.70448378582,No,Decline
+Sales Manager,Transportation,Large,San Francisco,High,Medium,75010.66321630863,No,Decline
+Operations Manager,Entertainment,Medium,Paris,Low,High,103278.77676121391,Yes,Decline
+Sales Manager,Healthcare,Large,Dubai,Low,High,86365.0646888311,No,Growth
+Cybersecurity Analyst,Energy,Small,San Francisco,Medium,High,119757.93941138811,Yes,Growth
+UX Designer,Technology,Small,Toronto,Low,High,105251.9243060954,No,Stable
+Operations Manager,Entertainment,Small,Toronto,Low,High,103656.30851737004,No,Stable
+AI Researcher,Telecommunications,Medium,London,Low,Medium,79263.48307265196,No,Decline
+Software Engineer,Education,Large,Berlin,Medium,Low,97914.18594581824,Yes,Decline
+HR Manager,Transportation,Small,Paris,Medium,High,114846.06320377928,No,Decline
+AI Researcher,Education,Small,Berlin,High,Low,114259.39326681307,Yes,Stable
+Sales Manager,Retail,Small,Dubai,Low,Low,69928.31469523451,Yes,Decline
+Cybersecurity Analyst,Technology,Medium,Toronto,Medium,High,97626.9143943717,Yes,Growth
+Cybersecurity Analyst,Healthcare,Small,Toronto,Medium,Low,88612.75295199506,Yes,Decline
+Marketing Specialist,Telecommunications,Medium,Singapore,Medium,Medium,92726.05517870298,No,Growth
+Software Engineer,Technology,Medium,Toronto,Medium,High,49178.20644274066,No,Stable
+AI Researcher,Retail,Medium,Sydney,High,Medium,80190.37053238007,Yes,Stable
+HR Manager,Entertainment,Medium,New York,Low,Low,126252.7278731872,Yes,Stable
+Operations Manager,Transportation,Large,Berlin,Medium,High,41477.07110126381,No,Decline
+Product Manager,Manufacturing,Medium,Tokyo,Low,High,61715.15393380718,Yes,Decline
+Product Manager,Entertainment,Medium,Tokyo,Medium,High,125217.20228977058,No,Stable
+Software Engineer,Energy,Medium,London,Medium,Low,107891.22308360292,No,Stable
+AI Researcher,Energy,Large,Singapore,High,Medium,83219.32761812549,Yes,Stable
+AI Researcher,Entertainment,Large,San Francisco,Low,Low,72240.35082494657,Yes,Growth
+Software Engineer,Finance,Small,Tokyo,High,High,83453.0059069015,No,Growth
+Cybersecurity Analyst,Finance,Small,Sydney,Low,Medium,105514.6829532055,Yes,Stable
+Data Scientist,Entertainment,Small,London,Low,Medium,101271.78067215992,No,Growth
+Operations Manager,Technology,Medium,Berlin,High,Medium,97707.8876563038,No,Stable
+Cybersecurity Analyst,Technology,Medium,London,Medium,Low,116255.18284388848,Yes,Stable
+Operations Manager,Manufacturing,Medium,Singapore,Low,Medium,101331.09007729184,No,Growth
+UX Designer,Finance,Large,Paris,Medium,High,77064.99076791776,No,Stable
+Operations Manager,Telecommunications,Medium,Dubai,Low,High,122707.37110577663,No,Growth
+Marketing Specialist,Energy,Medium,London,High,High,58758.43213949185,Yes,Growth
+HR Manager,Technology,Small,Toronto,High,High,106137.34920187594,No,Stable
+UX Designer,Healthcare,Large,Paris,Medium,Low,93431.851118336,Yes,Decline
+Marketing Specialist,Finance,Large,Paris,Medium,High,108920.8838032922,Yes,Growth
+Cybersecurity Analyst,Energy,Medium,Sydney,High,Medium,119745.87326145964,Yes,Decline
+AI Researcher,Education,Large,Paris,Medium,Low,66607.8607618821,Yes,Growth
+Cybersecurity Analyst,Entertainment,Small,Paris,High,Low,98019.8925900194,No,Stable
+AI Researcher,Finance,Medium,Sydney,High,Low,82949.06477759837,Yes,Stable
+HR Manager,Energy,Medium,San Francisco,Medium,Low,68673.66926108922,No,Growth
+UX Designer,Healthcare,Medium,San Francisco,Low,Medium,133121.95558228905,Yes,Decline
+Sales Manager,Education,Large,San Francisco,Low,Low,123614.1245586093,Yes,Stable
+Operations Manager,Energy,Small,Tokyo,High,High,89886.8918644223,Yes,Decline
+Software Engineer,Education,Medium,New York,Low,Low,77850.27177469249,No,Stable
+Data Scientist,Technology,Large,New York,Low,Medium,112148.10316437582,Yes,Stable
+Data Scientist,Retail,Large,New York,Low,High,109157.45956222904,Yes,Growth
+Product Manager,Manufacturing,Small,Paris,Medium,High,82667.99021900444,Yes,Decline
+Cybersecurity Analyst,Finance,Large,San Francisco,High,Medium,61182.10604856373,No,Growth
+AI Researcher,Education,Small,Berlin,Medium,High,78502.86855490535,Yes,Growth
+AI Researcher,Entertainment,Medium,London,High,Medium,88705.8981853941,Yes,Growth
+Software Engineer,Telecommunications,Large,Tokyo,Low,Low,53931.60420446737,Yes,Decline
+Data Scientist,Transportation,Medium,London,Medium,Medium,103610.79763604786,Yes,Decline
+AI Researcher,Education,Small,Sydney,Medium,High,95643.46078809629,Yes,Growth
+UX Designer,Manufacturing,Small,Toronto,Medium,High,91227.9778955218,No,Growth
+Cybersecurity Analyst,Finance,Medium,San Francisco,High,Medium,51391.379826315526,No,Growth
+Software Engineer,Manufacturing,Small,Dubai,High,Low,110382.86714555636,No,Decline
+Product Manager,Finance,Medium,Toronto,Medium,Medium,90959.51909483613,Yes,Stable
+UX Designer,Manufacturing,Medium,Toronto,High,Medium,97524.27877860235,Yes,Growth
+Marketing Specialist,Technology,Small,Paris,High,Medium,106408.50840001529,No,Decline
+UX Designer,Telecommunications,Small,Sydney,Low,Low,63134.16410954113,No,Stable
+Data Scientist,Transportation,Large,London,High,High,71180.51856685881,No,Decline
+Sales Manager,Transportation,Small,Paris,Medium,Low,85846.11141599243,No,Decline
+Marketing Specialist,Finance,Large,Paris,High,High,102456.57942589924,Yes,Growth
+HR Manager,Education,Small,Singapore,Low,Low,62064.53860295243,No,Growth
+Cybersecurity Analyst,Technology,Small,San Francisco,Low,Medium,82470.3410299592,No,Decline
+HR Manager,Energy,Small,Sydney,Low,Medium,109093.1263970858,No,Growth
+UX Designer,Telecommunications,Medium,Toronto,Low,Low,90990.36681195573,Yes,Stable
+Operations Manager,Finance,Small,Berlin,Medium,High,76638.97503635465,No,Growth
+HR Manager,Finance,Small,Sydney,Low,Low,57592.73215117205,Yes,Stable
+Operations Manager,Entertainment,Small,Dubai,High,High,114904.98376120426,Yes,Growth
+AI Researcher,Education,Medium,Sydney,High,High,93535.63828521938,Yes,Stable
+Sales Manager,Entertainment,Small,London,Low,Medium,95685.64402354926,No,Stable
+Data Scientist,Transportation,Large,Singapore,Low,Low,89276.9560398613,Yes,Decline
+Operations Manager,Finance,Large,Berlin,Low,Medium,103210.33588791486,Yes,Stable
+Product Manager,Telecommunications,Small,Dubai,Low,Medium,93273.48311269651,Yes,Stable
+AI Researcher,Retail,Large,Paris,High,High,101775.8455912208,Yes,Stable
+Cybersecurity Analyst,Telecommunications,Medium,London,Medium,Medium,145851.050426193,Yes,Stable
+Marketing Specialist,Retail,Medium,Dubai,Medium,High,75696.53160359354,No,Stable
+UX Designer,Technology,Large,Tokyo,Medium,Medium,80209.22137766068,No,Decline
+HR Manager,Manufacturing,Large,London,High,Medium,74471.18103631868,Yes,Decline
+HR Manager,Transportation,Small,Tokyo,Low,High,59861.7859566377,No,Decline
+Cybersecurity Analyst,Healthcare,Medium,Tokyo,High,High,69043.97531813038,No,Decline
+Operations Manager,Healthcare,Large,Paris,Low,Low,62565.96147502666,Yes,Stable
+Cybersecurity Analyst,Telecommunications,Small,Tokyo,Low,High,137288.7446884783,Yes,Stable
+HR Manager,Energy,Medium,Sydney,Low,Low,108310.70034024378,No,Stable
+HR Manager,Telecommunications,Large,Paris,Low,Low,69911.39656619012,Yes,Growth
+UX Designer,Finance,Medium,Toronto,Medium,Low,102458.30846822022,No,Stable
+Marketing Specialist,Technology,Large,Tokyo,High,Medium,61404.27556072241,Yes,Stable
+Operations Manager,Finance,Medium,New York,High,Medium,90560.94941797608,Yes,Stable
+AI Researcher,Education,Large,Tokyo,Medium,Medium,115825.01087432512,No,Growth
+Sales Manager,Manufacturing,Medium,Tokyo,Low,Medium,91882.61252351204,Yes,Growth
+Operations Manager,Energy,Medium,Singapore,High,High,76151.48813848641,No,Stable
+HR Manager,Healthcare,Large,San Francisco,Medium,Low,63315.95183422079,No,Stable
+Software Engineer,Energy,Large,Tokyo,High,Low,99046.09842734988,Yes,Growth
+Marketing Specialist,Entertainment,Large,New York,Medium,Medium,105522.62502839806,Yes,Stable
+Cybersecurity Analyst,Telecommunications,Large,Toronto,Medium,High,103752.47670265278,Yes,Decline
+Cybersecurity Analyst,Retail,Small,London,Low,Medium,76458.47158284698,Yes,Stable
+UX Designer,Manufacturing,Large,Sydney,High,Low,93747.98323948577,No,Stable
+Marketing Specialist,Manufacturing,Medium,San Francisco,Medium,Low,88539.59822545874,No,Stable
+Data Scientist,Manufacturing,Medium,New York,Medium,Low,125729.43054203142,Yes,Decline
+UX Designer,Manufacturing,Small,New York,Low,High,86372.72978727263,No,Growth
+HR Manager,Retail,Small,New York,Low,Medium,122869.132165118,No,Decline
+Product Manager,Telecommunications,Medium,Paris,High,Medium,127120.02823361724,Yes,Growth
+UX Designer,Technology,Medium,Singapore,Low,High,94469.02936700232,No,Stable
+AI Researcher,Entertainment,Large,Toronto,High,Low,99545.4996486603,No,Stable
+Operations Manager,Energy,Medium,London,Medium,Low,100396.33017627228,No,Stable
+Operations Manager,Finance,Large,Paris,High,High,97721.39521517976,No,Decline
+Operations Manager,Energy,Large,Paris,High,Low,103300.83232489016,Yes,Stable
+Data Scientist,Energy,Medium,Toronto,Low,Medium,88466.29076485882,No,Stable
+Software Engineer,Energy,Medium,Tokyo,High,High,105790.73087552872,No,Decline
+Software Engineer,Energy,Small,Singapore,Medium,High,108062.80825023729,Yes,Growth
+Data Scientist,Manufacturing,Medium,Singapore,Medium,Medium,75707.52818544168,No,Growth
+Cybersecurity Analyst,Education,Large,San Francisco,Low,Low,88984.5868664557,No,Stable
+Product Manager,Manufacturing,Large,Sydney,Low,Low,98210.49377352382,No,Decline
+UX Designer,Telecommunications,Medium,San Francisco,Low,Low,88472.15599944521,No,Decline
+Software Engineer,Finance,Medium,Paris,Medium,Low,61748.85837442953,No,Stable
+HR Manager,Technology,Medium,London,High,Low,74277.6146696118,Yes,Decline
+Product Manager,Finance,Large,Berlin,Low,High,90613.1300875122,No,Stable
+Operations Manager,Telecommunications,Large,Paris,High,Low,97690.46573951452,Yes,Decline
+Cybersecurity Analyst,Retail,Small,Toronto,Medium,Medium,56804.04268433668,No,Stable
+UX Designer,Entertainment,Large,Toronto,High,Medium,110099.29556790416,No,Growth
+Operations Manager,Education,Large,London,Low,Medium,147650.5282015756,Yes,Growth
+Operations Manager,Transportation,Medium,London,Low,Low,62307.65736715363,Yes,Growth
+Operations Manager,Finance,Large,San Francisco,Medium,Medium,66990.84981352597,Yes,Decline
+Marketing Specialist,Transportation,Medium,Singapore,High,High,94184.30607166947,Yes,Decline
+Data Scientist,Retail,Medium,Berlin,Medium,Medium,80936.41342715087,Yes,Decline
+Sales Manager,Transportation,Small,San Francisco,High,Low,130312.6806773494,No,Growth
+Cybersecurity Analyst,Manufacturing,Large,San Francisco,Medium,Medium,73477.1911725936,No,Decline
+Operations Manager,Finance,Medium,Sydney,High,Low,111278.22069430733,Yes,Growth
+Marketing Specialist,Education,Medium,Tokyo,Low,Low,117289.7285885454,No,Decline
+Data Scientist,Entertainment,Small,Dubai,Low,Medium,101634.80420160414,No,Decline
+Cybersecurity Analyst,Technology,Large,Toronto,High,High,78401.26904210477,Yes,Stable
+HR Manager,Education,Large,San Francisco,Medium,Low,110118.44006453168,No,Stable
+Data Scientist,Education,Large,London,Low,Medium,91286.17571992976,Yes,Growth
+Operations Manager,Finance,Medium,Singapore,Medium,Low,115680.35349352604,No,Decline
+Sales Manager,Transportation,Medium,Tokyo,Medium,High,78676.59039450163,No,Growth
+Product Manager,Energy,Medium,San Francisco,High,High,53707.05626100004,Yes,Stable
+Software Engineer,Finance,Medium,Tokyo,High,Low,97245.54494816822,No,Stable
+Marketing Specialist,Manufacturing,Small,New York,Medium,Medium,82300.65032843781,Yes,Decline
+HR Manager,Retail,Medium,London,Medium,Low,95837.49475496536,No,Stable
+AI Researcher,Healthcare,Small,London,Low,Low,122823.83805075684,No,Growth
+Product Manager,Energy,Large,New York,Low,High,78328.0660659543,No,Decline
+Software Engineer,Healthcare,Small,Tokyo,Medium,Medium,106974.95207784756,No,Growth
+Product Manager,Transportation,Large,Paris,Low,High,93389.59398428224,No,Decline
+Product Manager,Finance,Small,New York,Medium,Low,96413.86494443072,Yes,Growth
+Sales Manager,Education,Large,New York,Medium,Medium,105686.57132888092,Yes,Growth
+Cybersecurity Analyst,Finance,Large,Dubai,High,Low,81887.76271625617,No,Growth
+Cybersecurity Analyst,Manufacturing,Medium,Dubai,High,Low,53541.28012760283,No,Stable
+Sales Manager,Manufacturing,Medium,San Francisco,Low,Medium,101343.36061941544,No,Stable
+UX Designer,Manufacturing,Medium,Toronto,High,Medium,115798.47774653288,Yes,Decline
+Sales Manager,Retail,Small,Dubai,Low,Medium,86433.62739232593,Yes,Stable
+UX Designer,Healthcare,Large,Singapore,High,Low,86895.40368446824,Yes,Stable
+Data Scientist,Manufacturing,Large,Dubai,High,Low,91278.048201769,No,Decline
+Operations Manager,Telecommunications,Medium,San Francisco,Medium,Low,123148.2181533781,Yes,Decline
+UX Designer,Healthcare,Large,Sydney,High,High,74603.73696499037,Yes,Stable
+Cybersecurity Analyst,Energy,Large,San Francisco,High,Medium,106186.7153424818,No,Stable
+Cybersecurity Analyst,Education,Small,Toronto,High,Low,102476.5036364524,No,Stable
+Product Manager,Entertainment,Large,Sydney,Low,Low,84158.17138262841,No,Growth
+Software Engineer,Manufacturing,Medium,Berlin,Low,Medium,108986.37344476764,No,Growth
+Marketing Specialist,Energy,Large,Dubai,High,High,107359.01571456948,Yes,Growth
+Cybersecurity Analyst,Telecommunications,Medium,London,Medium,Low,71669.81136565495,No,Decline
+Product Manager,Education,Large,Tokyo,Medium,Medium,97527.13048542988,Yes,Growth
+Product Manager,Telecommunications,Medium,London,Medium,High,80168.52187377213,Yes,Growth
+Product Manager,Technology,Medium,Berlin,Medium,Low,91811.5984449195,Yes,Growth
+Data Scientist,Retail,Medium,Sydney,High,Medium,52252.20462531734,No,Decline
+UX Designer,Retail,Large,Berlin,Medium,Low,103728.98526791055,No,Stable
+UX Designer,Energy,Small,Toronto,Low,High,88025.9976153417,Yes,Stable
+Marketing Specialist,Telecommunications,Small,San Francisco,Medium,High,94532.27639732012,No,Decline
+Data Scientist,Retail,Small,Tokyo,Medium,Medium,122871.69207318396,No,Stable
+HR Manager,Healthcare,Large,Dubai,Medium,Medium,86157.48649126169,Yes,Decline
+HR Manager,Manufacturing,Medium,Toronto,Low,Medium,95385.13013871656,Yes,Decline
+Sales Manager,Retail,Large,Berlin,Medium,High,102153.49735107568,Yes,Growth
+AI Researcher,Entertainment,Large,Paris,Low,High,127462.12303304096,Yes,Stable
+HR Manager,Healthcare,Medium,Berlin,Low,Medium,91015.57966221544,No,Stable
+Product Manager,Healthcare,Medium,Sydney,Low,High,111991.09039564924,Yes,Stable
+Sales Manager,Finance,Small,Singapore,Medium,Medium,56035.95265942262,No,Stable
+Operations Manager,Entertainment,Small,San Francisco,Low,Low,120966.15049064763,No,Decline
+UX Designer,Education,Medium,Berlin,High,Medium,65900.41149783356,No,Stable
+Marketing Specialist,Energy,Large,Dubai,Medium,High,65330.00804577283,No,Stable
+Operations Manager,Entertainment,Medium,London,High,High,81610.2434643919,No,Decline
+Marketing Specialist,Entertainment,Medium,Berlin,Low,High,84916.87596805354,Yes,Growth
+Sales Manager,Healthcare,Large,Berlin,Medium,Low,81845.266850604,Yes,Decline
+Cybersecurity Analyst,Education,Small,Berlin,Medium,Medium,88578.08399366523,No,Growth
+AI Researcher,Healthcare,Small,Sydney,Medium,High,65044.87574122871,No,Growth
+Cybersecurity Analyst,Entertainment,Medium,London,High,Low,89749.43989747825,Yes,Growth
+AI Researcher,Entertainment,Large,San Francisco,High,Medium,91294.29876473352,Yes,Growth
+Operations Manager,Technology,Medium,Dubai,Low,Low,95185.2855176464,No,Stable
+Sales Manager,Finance,Small,Toronto,Low,Low,94561.0107237564,No,Decline
+AI Researcher,Entertainment,Large,Berlin,High,Low,71627.17121055367,Yes,Decline
+UX Designer,Education,Large,Berlin,Low,Low,109148.16275853926,Yes,Stable
+Software Engineer,Finance,Small,New York,Medium,Medium,75714.60316351225,No,Decline
+UX Designer,Finance,Large,San Francisco,Low,Medium,58711.22235607187,No,Decline
+Cybersecurity Analyst,Education,Medium,Dubai,Low,High,107831.69764313148,No,Decline
+UX Designer,Technology,Small,Tokyo,Low,Medium,86018.94277544592,No,Growth
+AI Researcher,Manufacturing,Large,Sydney,Low,Medium,66518.54774774666,Yes,Decline
+AI Researcher,Education,Small,Berlin,High,Low,88167.31320128647,Yes,Growth
+Sales Manager,Telecommunications,Small,Toronto,Medium,Low,71877.3415080519,No,Stable
+UX Designer,Healthcare,Large,London,Low,Medium,63804.107757434766,No,Growth
+Product Manager,Entertainment,Large,London,Low,High,115071.63404630224,Yes,Decline
+Cybersecurity Analyst,Manufacturing,Small,London,High,Low,97640.9611324224,Yes,Stable
+Cybersecurity Analyst,Manufacturing,Medium,Berlin,High,Low,67779.91968251641,No,Stable
+Cybersecurity Analyst,Manufacturing,Medium,Toronto,Low,Low,87613.73433324459,Yes,Stable
+Cybersecurity Analyst,Entertainment,Medium,New York,Medium,Medium,71762.71342552209,No,Growth
+Data Scientist,Transportation,Large,Berlin,High,Low,87918.97621085965,No,Stable
+Product Manager,Technology,Large,Dubai,High,High,127666.47613312784,Yes,Stable
+AI Researcher,Telecommunications,Large,Singapore,Low,Medium,90905.3390427651,No,Stable
+Operations Manager,Education,Medium,Dubai,High,Medium,82656.98885747552,No,Growth
+Software Engineer,Manufacturing,Medium,Dubai,Medium,High,100356.77897082405,Yes,Decline
+Sales Manager,Retail,Medium,New York,Medium,Low,91196.71360305804,Yes,Growth
+Operations Manager,Manufacturing,Medium,New York,Medium,Medium,103847.34661978408,Yes,Decline
+Sales Manager,Retail,Medium,Paris,Medium,Low,80158.766135293,Yes,Decline
+Sales Manager,Transportation,Large,Dubai,Medium,Low,99327.58124849584,Yes,Stable
+Cybersecurity Analyst,Manufacturing,Large,London,Medium,Low,107102.88954478307,Yes,Decline
+Data Scientist,Finance,Medium,Singapore,Low,Medium,98290.55292604756,No,Stable
+Product Manager,Finance,Large,Tokyo,High,High,99915.47616826536,No,Stable
+Product Manager,Technology,Large,Berlin,Low,Medium,86815.1640941378,Yes,Growth
+AI Researcher,Entertainment,Small,Toronto,Low,High,58201.28041667986,Yes,Stable
+AI Researcher,Education,Large,Dubai,Medium,High,99399.95495959852,No,Stable
+Sales Manager,Transportation,Small,New York,Medium,Medium,94515.36855926758,Yes,Decline
+Cybersecurity Analyst,Entertainment,Medium,Paris,High,Low,95488.21415908566,No,Decline
+UX Designer,Technology,Large,New York,High,Low,59283.18544454871,No,Growth
+Software Engineer,Education,Small,Toronto,Medium,Low,96029.8141667795,No,Decline
+Data Scientist,Technology,Small,Dubai,Medium,Medium,82637.79856384784,Yes,Stable
+Software Engineer,Finance,Medium,San Francisco,Low,High,108141.66298417092,No,Decline
+Software Engineer,Technology,Small,Sydney,Medium,Medium,68933.94727027,Yes,Decline
+Software Engineer,Telecommunications,Large,Singapore,High,Medium,95710.53049236964,No,Stable
+Product Manager,Education,Medium,Paris,High,Medium,87191.62862864192,No,Stable
+Sales Manager,Manufacturing,Large,London,Medium,Low,109920.2906058284,No,Decline
+HR Manager,Energy,Medium,San Francisco,Low,Medium,91957.63700251323,Yes,Decline
+Software Engineer,Finance,Large,New York,Low,Low,106199.96117608788,No,Stable
+Sales Manager,Education,Large,Berlin,Low,Low,129173.26744970554,No,Stable
+HR Manager,Telecommunications,Medium,London,Medium,Low,101104.64356351516,No,Growth
+UX Designer,Entertainment,Large,Paris,Low,Low,98964.43236210146,Yes,Growth
+Cybersecurity Analyst,Manufacturing,Large,Berlin,Medium,Low,121417.69252990704,Yes,Decline
+AI Researcher,Manufacturing,Small,Singapore,High,Low,88716.66887866388,No,Decline
+Cybersecurity Analyst,Retail,Medium,San Francisco,Medium,High,85946.1428691367,No,Decline
+Cybersecurity Analyst,Telecommunications,Large,Dubai,Low,High,96313.0774435948,No,Stable
+Cybersecurity Analyst,Telecommunications,Medium,London,Low,High,63213.91608353015,Yes,Decline
+UX Designer,Manufacturing,Small,Tokyo,Medium,Medium,112395.81014496516,Yes,Decline
+HR Manager,Technology,Large,Sydney,High,Low,79915.45404560391,No,Stable
+UX Designer,Finance,Medium,Paris,High,High,102509.0450002024,No,Decline
+Operations Manager,Entertainment,Small,Singapore,Low,Low,67966.98873726893,Yes,Growth
+Marketing Specialist,Retail,Medium,Sydney,Medium,Medium,97178.14269715398,No,Stable
+Marketing Specialist,Telecommunications,Large,Sydney,Low,Low,75239.08704321952,Yes,Growth
+Product Manager,Entertainment,Medium,San Francisco,Medium,High,49237.314470589976,No,Stable
+HR Manager,Healthcare,Large,New York,High,High,105214.0358059309,Yes,Growth
+AI Researcher,Technology,Medium,Berlin,Low,Medium,85622.80094964908,No,Growth
+HR Manager,Manufacturing,Medium,Sydney,High,High,123114.48734522075,Yes,Stable
+Product Manager,Manufacturing,Medium,Dubai,Low,Low,69371.59636721868,No,Decline
+Cybersecurity Analyst,Energy,Large,Toronto,Low,High,129387.69029690664,No,Stable
+Sales Manager,Retail,Medium,London,Low,Low,71641.86301826252,No,Growth
+Product Manager,Retail,Small,Toronto,Medium,Low,73420.52105851553,No,Stable
+AI Researcher,Education,Large,Toronto,Medium,Low,89921.23172587797,Yes,Stable
+Sales Manager,Telecommunications,Small,Paris,Low,High,104079.43861767054,No,Growth
+Product Manager,Entertainment,Small,San Francisco,Low,Low,78498.622043097,Yes,Decline
+AI Researcher,Entertainment,Large,New York,Medium,Medium,119703.84686706182,Yes,Decline
+Software Engineer,Healthcare,Medium,Tokyo,Low,Low,73434.16597817151,No,Growth
+Marketing Specialist,Telecommunications,Small,Dubai,Medium,High,101806.18052737023,Yes,Decline
+AI Researcher,Retail,Small,Dubai,High,Medium,68584.46976276305,Yes,Stable
+Software Engineer,Finance,Small,Sydney,Medium,Medium,104614.04856012156,No,Stable
+Data Scientist,Entertainment,Large,Singapore,Medium,Low,120501.51331751444,Yes,Growth
+HR Manager,Finance,Large,Tokyo,High,Low,114224.36773321348,No,Stable
+Data Scientist,Finance,Small,London,Low,Low,121932.2573777003,Yes,Stable
+Cybersecurity Analyst,Healthcare,Small,Dubai,Medium,Medium,86301.33716746564,No,Growth
+Cybersecurity Analyst,Telecommunications,Small,San Francisco,High,Medium,98363.51926514824,No,Growth
+AI Researcher,Technology,Medium,London,Medium,Low,97606.59250457647,Yes,Decline
+Marketing Specialist,Energy,Small,Sydney,Medium,Low,49152.49259371887,Yes,Stable
+Marketing Specialist,Manufacturing,Small,Toronto,High,High,76609.35398516683,Yes,Stable
+Operations Manager,Education,Medium,Tokyo,Medium,Low,74834.9037708459,No,Stable
+Sales Manager,Entertainment,Medium,Toronto,Medium,Low,54769.40880454231,Yes,Stable
+Operations Manager,Retail,Medium,London,High,Low,87491.04779842701,No,Decline
+Cybersecurity Analyst,Education,Small,Tokyo,High,Medium,71943.17618682506,No,Decline
+Data Scientist,Education,Medium,Singapore,Medium,High,94749.22600533025,Yes,Growth
